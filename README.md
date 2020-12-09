@@ -5,8 +5,8 @@
 - 🤔 I’m looking for help with Node.JS in Splooit
 
 #### Best of mine:
-- [r/jolygolf](VityaSchel/RedditJolygolfBot) - Bot that reposts memes from VK
-- [гадзы.online](гадзы.online) - Website with gadzas from russian famous streamer Glad Valakas
+- [r/jolygolf](https://github.com/VityaSchel/RedditJolygolfBot) - Bot that reposts memes from VK
+- [гадзы.online](https://гадзы.online) - Website with gadzas from russian famous streamer Glad Valakas
 - [Stigfinnare](https://stigfinnare.utidteam.com) - MMO Battleroyale videogame like fall guys but released a year before
 
 #### Road to WebDev:
