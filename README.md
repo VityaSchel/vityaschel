@@ -17,6 +17,11 @@
 ✅ Learning Less\
 👉 Learning Git
 
+#### Favourite quotes
+- “чтобы говнокод скрывать вот зачем нужон вебпак” — [@martiliones](https://github.com/martiliones)
+- “Просто смойте меня в унитаз!” — AquaTube
+- “Ленин! Ленин я!” — Lenin
+
 #### Reach me:
 - [vityaschel@utidteam.com](mailto:vityaschel@utidteam.com)
 - [@vityaschel](https://t.me/vityaschel) in Telegram
