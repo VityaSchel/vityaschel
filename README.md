@@ -1,4 +1,6 @@
-### Viktor Shchelochkov
+## Viktor Shchelochkov
+
+![ёкарный бабай](https://user-images.githubusercontent.com/59040542/103486942-f4e9a080-4e1a-11eb-90fa-255baa9ee1d2.png)
 
 - 🔭 I’m currently working on [Splooit](mailto:contact@splooit.com)
 - 🌱 I’m currently learning React.JS
@@ -16,11 +18,6 @@
 ✅ How to write clear code\
 ✅ Learning Less\
 👉 Learning Git
-
-#### Favourite quotes
-- “чтобы говнокод скрывать вот зачем нужон вебпак” — [@martiliones](https://github.com/martiliones)
-- “Просто смойте меня в унитаз!” — AquaTube
-- “Ленин! Ленин я!” — Lenin
 
 #### Reach me:
 - [vityaschel@utidteam.com](mailto:vityaschel@utidteam.com)
