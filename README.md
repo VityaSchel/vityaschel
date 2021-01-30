@@ -19,7 +19,7 @@
 ✅ Learning how to write clear code\
 ✅ Learning Less\
 ✅ Learning WebSecurity\
-👉 Learning Git
+👉 Learning Git\
 👉 Learning ReactJS
 
 #### Reach me:
