@@ -13,11 +13,14 @@
 
 #### Road to WebDev:
 
-▓▓▓░░░░░░░░░░░░░░░░░░░░ 12%
+▓▓▓▓░░░░░░░░░░░░░░░░░░ 18%
 
-✅ How to write clear code\
+✅ Learning how to design UX\
+✅ Learning how to write clear code\
 ✅ Learning Less\
+✅ Learning WebSecurity\
 👉 Learning Git
+👉 Learning ReactJS
 
 #### Reach me:
 - [vityaschel@utidteam.com](mailto:vityaschel@utidteam.com)
