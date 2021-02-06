@@ -11,6 +11,9 @@
 - [гадзы.online](https://гадзы.online) - Website with gadzas from russian famous streamer Glad Valakas
 - [Stigfinnare](https://stigfinnare.utidteam.com) - MMO Battleroyale videogame like fall guys but released a year before
 
+#### Other funny things:
+[Panic Button](https://vityaschel.github.io/panic-button/) | [GitHub Pages URL -> GitHub repo url converter](https://codepen.io/VityaSchel/pen/oNYxxYB) | [π calculator](https://codepen.io/VityaSchel/pen/yLapXox) | [Link destination manipulating](https://codepen.io/VityaSchel/pen/mdEzVNj) | [Is Navalny arrested right now?](http://navalnyarrested.utidteam.com/) | [Wikipedia speedrun (game)](https://wikipedia.utidteam.com/) 
+
 #### Road to WebDev:
 
 ▓▓▓▓░░░░░░░░░░░░░░░░░░ 18%
