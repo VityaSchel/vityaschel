@@ -21,9 +21,10 @@
 ✅ Learning how to design UX\
 ✅ Learning how to write clear code\
 ✅ Learning Less\
-✅ Learning WebSecurity\
+✅ Learning web security\
 👉 Learning Git\
-👉 Learning ReactJS
+👉 Learning ReactJS\
+👉 Learning Webpack
 
 #### Reach me:
 - [vityaschel@utidteam.com](mailto:vityaschel@utidteam.com)
