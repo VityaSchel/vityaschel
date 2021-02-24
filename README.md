@@ -16,14 +16,15 @@
 
 #### Road to WebDev:
 
-▓▓▓▓░░░░░░░░░░░░░░░░░░ 18%
+▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░ 38%
 
 ✅ Learning how to design UX\
 ✅ Learning how to write clear code\
 ✅ Learning Less\
 ✅ Learning web security\
+✅ Learning ReactJS and popular components of it\
 👉 Learning Git\
-👉 Learning ReactJS\
+👉 Learning Next.js and three.js\
 👉 Learning Webpack
 
 #### Reach me:
