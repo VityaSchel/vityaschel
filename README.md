@@ -18,7 +18,7 @@ Bot that reposts memes from VK (in subreddit — from На приёме у Ше�
 |[Panic Button (literally)](https://vityaschel.github.io/panic-button/) | [GitHub Pages URL -> GitHub repo url converter](https://codepen.io/VityaSchel/pen/oNYxxYB) | [π calculator](https://codepen.io/VityaSchel/pen/yLapXox)|
 |[Wikipedia speedrun (browser-game)](https://wikipedia.utidteam.com/) | [Link destination manipulating](https://codepen.io/VityaSchel/pen/mdEzVNj) | [Is Navalny arrested right now?](http://navalnyarrested.utidteam.com/)|
 |[Хочешь стать программистом?](https://github.com/VityaSchel/YouWantToBecomeAProgrammer)|[addEventListeners JS function](https://codepen.io/VityaSchel/pen/WNozRVW)|[Useless canvas-based text editor](https://github.com/VityaSchel/useless-canvas-based-text-editor)|
-|[Hitler or Vladimir Solovyev?](https://github.com/VityaSchel/vladimir-solovyev)|[Custom names for АСУ РСО](https://github.com/VityaSchel/asurso-custom-names)|[Rofl-calls orders for Glad Valakas](https://github.com/VityaSchel/glad-valakas-website)|
+|[Hitler or Vladimir Solovyev?](https://github.com/VityaSchel/vladimir-solovyev)|[Ruscript — programming language](https://github.com/VityaSchel/ruscript)|[Rofl-calls orders for Glad Valakas](https://github.com/VityaSchel/glad-valakas-website)|
 
 #### Road to WebDev:
 
