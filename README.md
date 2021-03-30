@@ -22,18 +22,20 @@ Bot that reposts memes from VK (in subreddit — from На приёме у Ше�
 
 #### Road to WebDev:
 
-▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░ 44%
+▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ 52%
 
 ✅ Learning how to design UX\
 ✅ Learning how to write clear code\
 ✅ Learning Less\
 ✅ Learning web security\
-✅ Learning ReactJS and popular components of it\
-✅ Learning NextJS and three.js\
-✅ Learning Node.js and npm\
+✅ Learning how to create PWA\
+✅ Learning Reactstrap, bootstrap and material-ui\
+✅ Learning Typescript\
+✅ Learning ESLint\
+✅ Learning Node.js\
 👉 Learning Git\
-👉 Learning Typescript\
-👉 Learning ESLint, source mapping
+👉 Learning ReactJS + NextJS\
+👉 Learning Redux, custom React hooks
 
 #### Reach me:
 - [vityaschel@utidteam.com](mailto:vityaschel@utidteam.com)
