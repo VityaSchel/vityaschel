@@ -29,7 +29,7 @@ Bot that reposts memes from VK (in subreddit — from На приёме у Ше�
 
 ✅ Learning how to design UX\
 ✅ Learning how to write clear code\
-✅ Learning Less\
+✅ Learning Less and SCSS\
 ✅ Learning web security\
 ✅ Learning how to create PWA\
 ✅ Learning Reactstrap, bootstrap and material-ui\
