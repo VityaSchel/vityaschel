@@ -42,7 +42,7 @@ Bot that reposts memes from VK (in subreddit — from На приёме у Ше�
 ✅ Learning npm and yarn\
 👉 Learning Git\
 👉 Learning webpack and esbuild\
-👉 Learning react-spring and react-hook-form\
+👉 Learning react-spring and react-hook-form
 
 #### Reach me:
 - [vityaschel@utidteam.com](mailto:vityaschel@utidteam.com)
