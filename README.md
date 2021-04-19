@@ -25,7 +25,7 @@ Bot that reposts memes from VK (in subreddit — from На приёме у Ше�
 
 #### Road to WebDev:
 
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ 70%
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ 76%
 
 ✅ Learning how to design UX\
 ✅ Learning how to write clear code\
@@ -43,9 +43,10 @@ Bot that reposts memes from VK (in subreddit — from На приёме у Ше�
 ✅ Learning MongoDB\
 ✅ Learning react-spring and react-hook-form\
 ✅ Learning mapbox and amp.dev (superficial)\
+✅ Learning browserify, webpack and esbuild\
 👉 Learning Git\
-👉 Learning browserify, webpack and esbuild\
-👉 Learning testing
+👉 Learning testing\
+👉 Learning containers and docker
 
 #### Reach me:
 - [vityaschel@utidteam.com](mailto:vityaschel@utidteam.com)
