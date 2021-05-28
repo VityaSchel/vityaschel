@@ -29,28 +29,28 @@ Bot that reposts memes from VK (in subreddit — from На приёме у Ше�
 
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 91%
 
-✅ Learning how to design UX\
-✅ Learning how to write clear code\
-✅ Learning Less and SCSS\
-✅ Learning web security\
-✅ Learning how to create PWA\
-✅ Learning ReactJS + bundling\
-✅ Learning Reactstrap, bootstrap and material-ui\
-✅ Learning TypeScript\
-✅ Learning ESLint\
-✅ Learning Node.js (in depth)\
-✅ Learning NextJS (SWR, incremental generation)\
-✅ Learning Redux, custom React hooks\
-✅ Learning ThreeJS\
-✅ Learning npm and yarn (completely)\
-✅ Learning MongoDB, mongo shell, nodejs driver\
-✅ Learning react-spring and react-hook-form\
-✅ Learning mapbox and amp.dev (superficial)\
-✅ Learning browserify, webpack and esbuild (in depth)\
-✅ Learning testing theory\
-👉 Learning Git (completely)\
-👉 Learning testing frameworks\
-👉 Learning containers and Docker
+✅  Learning how to design UX\
+✅  Learning how to write clear code\
+✅  Learning Less and SCSS\
+✅  Learning web security\
+✅  Learning how to create PWA\
+✅  Learning ReactJS + bundling\
+✅  Learning Reactstrap, bootstrap and material-ui\
+✅  Learning TypeScript\
+✅  Learning ESLint\
+✅  Learning Node.js (in depth)\
+✅  Learning NextJS (SWR, incremental generation)\
+✅  Learning Redux, custom React hooks\
+✅  Learning ThreeJS\
+✅  Learning npm and yarn (completely)\
+✅  Learning MongoDB, mongo shell, nodejs driver\
+✅  Learning react-spring and react-hook-form\
+✅  Learning mapbox and amp.dev (superficial)\
+✅  Learning browserify, webpack and esbuild (in depth)\
+✅  Learning testing theory\
+👉  Learning Git (completely)\
+👉  Learning testing frameworks\
+👉  Learning containers and Docker
 
 #### Reach me:
 - [vityaschel@utidteam.com](mailto:vityaschel@utidteam.com)
