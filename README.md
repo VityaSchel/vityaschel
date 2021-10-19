@@ -7,9 +7,9 @@
 - 🤔  I’m looking for free time
 
 #### Best of mine:
-[r/jolygolf](https://github.com/VityaSchel/RedditJolygolfBot)|[гадзы.online](https://гадзы.online)|[Stigfinnare](https://stigfinnare.utidteam.com)
+[r/jolygolf](https://github.com/VityaSchel/RedditJolygolfBot)|[Гадзы Глада Валакаса](https://godzilla.utidteam.com)|[Stigfinnare](https://stigfinnare.utidteam.com)
 ---|---|---
-[<img width="316" alt="r/jolygolf" src="https://user-images.githubusercontent.com/59040542/109418542-51fc6f80-79e2-11eb-8de7-bbafa387befe.png">](https://github.com/VityaSchel/RedditJolygolfBot)|[<img width="316" alt="гадзы.online" src="https://user-images.githubusercontent.com/59040542/109418543-52950600-79e2-11eb-865f-3a6d3d9a9da9.png">](https://гадзы.online)|[<img width="316" alt="Stigfinnare" src="https://user-images.githubusercontent.com/59040542/109418539-4f9a1580-79e2-11eb-90d2-3593ac44c53f.png">](https://stigfinnare.utidteam.com)
+[<img width="316" alt="r/jolygolf" src="https://user-images.githubusercontent.com/59040542/109418542-51fc6f80-79e2-11eb-8de7-bbafa387befe.png">](https://github.com/VityaSchel/RedditJolygolfBot)|[<img width="316" alt="Гадзы Глада Валакаса" src="https://user-images.githubusercontent.com/59040542/109418543-52950600-79e2-11eb-865f-3a6d3d9a9da9.png">](https://godzilla.utidteam.com)|[<img width="316" alt="Stigfinnare" src="https://user-images.githubusercontent.com/59040542/109418539-4f9a1580-79e2-11eb-90d2-3593ac44c53f.png">](https://stigfinnare.utidteam.com)
 Bot that reposts memes from VK (in subreddit — from На приёме у Шевцова)|Website with gadzas from russian famous streamer Glad Valakas|MMO Battleroyale videogame with a collection of minigames
 
 <!-- waiting for remafia to come out...
