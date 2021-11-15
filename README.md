@@ -1,6 +1,6 @@
 ## Viktor Shchelochkov
 
-![ёкарный бабай](https://user-images.githubusercontent.com/59040542/103486942-f4e9a080-4e1a-11eb-90fa-255baa9ee1d2.png)
+![ёкарный бабай](./banner.svg)
 
 - 🔭  I’m currently working on [splooit](mailto:contact@splooit.com)
 - 🌱  I’m currently learning to become a web developer
