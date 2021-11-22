@@ -1,4 +1,4 @@
-## Viktor Shchelochkov
+## Viktor Shchelochkov (@hloth)
 
 ![ёкарный бабай](./banner.svg)
 
