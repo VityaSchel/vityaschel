@@ -62,11 +62,11 @@ Vanilla js landings: [Homirror](https://portfolio.utidteam.com/homirror), [Nioly
 ✅ Start developing splooit with new knowledge
 
 #### Reach me:
-- [vityaschel@utidteam.com](mailto:vityaschel@utidteam.com)
+- [hi@hloth.dev](mailto:hi@hloth.dev)
 - [@vityaschel](https://t.me/vityaschel) in Telegram
 - [Витя Чел](https://www.youtube.com/channel/UC4cueEAH9Oq94E1ynBiVJhw) on YouTube
 - [@VityaSchel](https://instagram.com/vityaschel) in Instagram
 - [@VityaSchel](https://codewars.com/users/VityaSchel) on Codewars
 - [@VityaSchel](https://codepen.io/VityaSchel) on Codepen
 - [@VityaSchel](https://codesandbox.io/u/vityaschel) on Codesandbox
-- I have no VKontakte
+- [Виктор Щелочков](https://vk.com/hloth) in VKontakte
