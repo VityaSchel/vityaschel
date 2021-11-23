@@ -63,7 +63,7 @@ Vanilla js landings: [Homirror](https://portfolio.utidteam.com/homirror), [Nioly
 
 #### Reach me:
 - [hi@hloth.dev](mailto:hi@hloth.dev)
-- [@vityaschel](https://t.me/vityaschel) in Telegram
+- [@hlothdev](https://t.me/hlothdev) in Telegram
 - [Витя Чел](https://www.youtube.com/channel/UC4cueEAH9Oq94E1ynBiVJhw) on YouTube
 - [@VityaSchel](https://instagram.com/vityaschel) in Instagram
 - [@VityaSchel](https://codewars.com/users/VityaSchel) on Codewars
