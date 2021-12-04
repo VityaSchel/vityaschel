@@ -7,9 +7,9 @@
 - 🤔  I’m looking for free time
 
 #### Best of mine:
-| <div style="width: 316px">[r/jolygolf](https://github.com/VityaSchel/RedditJolygolfBot)</div> | <div style="width: 316px">[ABOBA Presidental Campaign](https://aboba.utidteam.com)</div> | <div style="width: 316px">[Stigfinnare](https://stigfinnare.utidteam.com)</div> |
+| <div style="width: 316px">[r/jolygolf](https://github.com/VityaSchel/RedditJolygolfBot)</div> | <div style="width: 316px">[ABOBA Presidental Campaign](https://github.com/VityaSchel/ABOBA-2024-election-campaign-website/)</div> | <div style="width: 316px">[Stigfinnare](https://stigfinnare.utidteam.com)</div> |
 ---|---|---
-| [<img width="316" alt="r/jolygolf" src="https://user-images.githubusercontent.com/59040542/109418542-51fc6f80-79e2-11eb-8de7-bbafa387befe.png">](https://github.com/VityaSchel/RedditJolygolfBot) | [<img width="316" alt="ABOBA Presidental Campaign" src="https://user-images.githubusercontent.com/59040542/144708238-f5124658-9eb1-497b-9162-afaa8b05248e.png">](https://aboba.utidteam.com) | [<img width="316" alt="Stigfinnare" src="https://user-images.githubusercontent.com/59040542/109418539-4f9a1580-79e2-11eb-90d2-3593ac44c53f.png">](https://stigfinnare.utidteam.com) |
+| [<img width="316" alt="r/jolygolf" src="https://user-images.githubusercontent.com/59040542/109418542-51fc6f80-79e2-11eb-8de7-bbafa387befe.png">](https://github.com/VityaSchel/RedditJolygolfBot) | [<img width="316" alt="ABOBA Presidental Campaign" src="https://user-images.githubusercontent.com/59040542/144708238-f5124658-9eb1-497b-9162-afaa8b05248e.png">](https://github.com/VityaSchel/ABOBA-2024-election-campaign-website/) | [<img width="316" alt="Stigfinnare" src="https://user-images.githubusercontent.com/59040542/109418539-4f9a1580-79e2-11eb-90d2-3593ac44c53f.png">](https://stigfinnare.utidteam.com) |
 | Bot that reposts memes from VK (in subreddit — from На приёме у Шевцова) | Website for an upcoming Russian leader Valeriy Aboba | MMO Battleroyale videogame with a collection of minigames |
 
 <!-- waiting for remafia to come out...
