@@ -1,4 +1,6 @@
-<svg width="200" height="20" data-value="40">
-  <path class="bg" stroke="#ccc" d="M0 10, 200 10"></path>
-  <path class="meter" stroke="#09c" d="M0 10, 200 10" style="stroke-dasharray: 200; stroke-dashoffset: 200;"></path>
+<svg width="100%" height="30">
+  <rect x="0" y="0" width="100%" height="100%" fill="#1C0221" />
+  <text x="47%" y="19px" font-size="14" font-weight="bold" font-family="Avenir, Helvetica, sans-serif" fill="#fff">
+    100%
+  </text>
 </svg>
