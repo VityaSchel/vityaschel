@@ -7,10 +7,10 @@
 - 🤔  I’m looking for free time
 
 #### Best of mine:
-[r/jolygolf](https://github.com/VityaSchel/RedditJolygolfBot)|[Гадзы Глада Валакаса](https://godzilla.utidteam.com)|[Stigfinnare](https://stigfinnare.utidteam.com)
+| <div style="width: 316px">[r/jolygolf](https://github.com/VityaSchel/RedditJolygolfBot)</div> | <div style="width: 316px">[ABOBA Presidental Campaign](https://aboba.utidteam.com)</div> | <div style="width: 316px">[Stigfinnare](https://stigfinnare.utidteam.com)</div> |
 ---|---|---
-[<img width="316" alt="r/jolygolf" src="https://user-images.githubusercontent.com/59040542/109418542-51fc6f80-79e2-11eb-8de7-bbafa387befe.png">](https://github.com/VityaSchel/RedditJolygolfBot)|[<img width="316" alt="Гадзы Глада Валакаса" src="https://user-images.githubusercontent.com/59040542/109418543-52950600-79e2-11eb-865f-3a6d3d9a9da9.png">](https://godzilla.utidteam.com)|[<img width="316" alt="Stigfinnare" src="https://user-images.githubusercontent.com/59040542/109418539-4f9a1580-79e2-11eb-90d2-3593ac44c53f.png">](https://stigfinnare.utidteam.com)
-Bot that reposts memes from VK (in subreddit — from На приёме у Шевцова)|Website with gadzas from russian famous streamer Glad Valakas|MMO Battleroyale videogame with a collection of minigames
+| [<img width="316" alt="r/jolygolf" src="https://user-images.githubusercontent.com/59040542/109418542-51fc6f80-79e2-11eb-8de7-bbafa387befe.png">](https://github.com/VityaSchel/RedditJolygolfBot) | [<img width="316" alt="ABOBA Presidental Campaign" src="https://user-images.githubusercontent.com/59040542/144708238-f5124658-9eb1-497b-9162-afaa8b05248e.png">](https://aboba.utidteam.com) | [<img width="316" alt="Stigfinnare" src="https://user-images.githubusercontent.com/59040542/109418539-4f9a1580-79e2-11eb-90d2-3593ac44c53f.png">](https://stigfinnare.utidteam.com) |
+| Bot that reposts memes from VK (in subreddit — from На приёме у Шевцова) | Website for an upcoming Russian leader Valeriy Aboba | MMO Battleroyale videogame with a collection of minigames |
 
 <!-- waiting for remafia to come out...
 #### Some of my mobile games:
@@ -35,7 +35,12 @@ Vanilla js landings: [Homirror](https://portfolio.utidteam.com/homirror), [Nioly
 
 #### Road to FullStack WebDeveloper (9th December 2020 - 13th June 2021):
 
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%
+Progress: ![100%](./progress.svg)
+
+<svg width="200" height="20" data-value="40">
+  <path class="bg" stroke="#ccc" d="M0 10, 200 10"></path>
+  <path class="meter" stroke="#09c" d="M0 10, 200 10" style="stroke-dasharray: 200; stroke-dashoffset: 200;"></path>
+</svg>
 
 ✅ Learning how to design UX\
 ✅ Learning how to write clear code\
