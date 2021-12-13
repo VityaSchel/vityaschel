@@ -2,7 +2,7 @@
 
 ![ёкарный бабай](./banner.svg)
 
-- 🔭  I’m currently working on [splooit](mailto:contact@splooit.com)
+- 🔭  I’m currently working on my orders and my cool website
 - 🌱  I’m currently learning to become a web developer
 - 🤔  I’m looking for free time
 
