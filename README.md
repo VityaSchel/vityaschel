@@ -2,7 +2,7 @@
 
 ![ёкарный бабай](./banner.svg)
 
-- 🔭  I’m currently working on my orders and my cool website
+- 🔭  I’m currently working to move from Russia somewhere
 - 🌱  I’m currently learning to become a web developer
 - 🤔  I’m looking for free time
 
