@@ -3,7 +3,7 @@
 ![ёкарный бабай](./banner.svg)
 
 - 🔭  I’m currently working to move from Russia somewhere
-- 🌱  I’m currently learning to become a web developer
+- 🌱  I’m currently learning Go
 - 🤔  I’m looking for free time
 
 #### Best of mine:
@@ -31,11 +31,9 @@ Remake of legendary Remafia Online written on top of React Native & Expo|My firs
 |[<img src="https://user-images.githubusercontent.com/59040542/119943038-8e207b80-bfa3-11eb-8892-5af5a839581e.png" height="15px"/> Shizonyan — Tweets generator](https://github.com/VityaSchel/shizonyan)|[<img src="https://user-images.githubusercontent.com/59040542/119943920-b52b7d00-bfa4-11eb-8bae-2293dd57318a.png" height="15px"/> Alerts-API for DonAlerts (NodeJS)](https://github.com/VityaSchel/alerts-api)|[<img src="https://user-images.githubusercontent.com/59040542/119949171-a9db5000-bfaa-11eb-890f-da4315e599b0.png" height="15px"/> Conjugation Bot](https://github.com/VityaSchel/RusWordConBot)|
 |[<img src="https://user-images.githubusercontent.com/59040542/121818531-d70d4b00-cc98-11eb-8fab-81e0981448a9.png" height="15px"/> ČVUT: FIT vs FEL](https://utidteam.com/FITvsFEL/)|[<img src="https://user-images.githubusercontent.com/59040542/120078676-a8e91200-c0c1-11eb-84ce-ae67965c3399.png" height="15px"/> destream-api — API wrapper for DeStream](https://github.com/VityaSchel/destream-api)|[<img src="https://user-images.githubusercontent.com/59040542/134209580-1bf5e8fb-1c68-4422-bf67-06ad6795409d.png" height="15px"/> Gettr Dark Theme](https://github.com/vityaschel/gettr-dark-theme)|
 
-<details> 
-  <summary>Portfolio & freelance reviews</summary>
-  
-  Vanilla js landings: [Homirror](https://portfolio.utidteam.com/homirror), [NiolySchool](https://portfolio.utidteam.com/NiolySchool), [Educo](https://portfolio.utidteam.com/educo), [Splooit](https://portfolio.utidteam.com/splooitapp), [FoodStuff](https://portfolio.utidteam.com/foodstuff), [Bitprotect](https://portfolio.utidteam.com/bitprotect)
-</details>
+- [All technologies I have been learning](https://hloth.dev/me)
+- [My Portfolio](https://hloth.dev/portfolio)
+- [Support me](https://hloth.dev/donate)
 
 <details> 
   <summary>Road to FullStack WebDeveloper (9th December 2020 - 13th June 2021):</summary>
@@ -67,11 +65,12 @@ Remake of legendary Remafia Online written on top of React Native & Expo|My firs
   ✅ Start developing splooit with new knowledge
 </details>
  
+Read more about me: [hloth.dev](https://hloth.dev)
 
 #### Reach me:
 - [hi@hloth.dev](mailto:hi@hloth.dev)
 - [@hlothdev](https://t.me/hlothdev) in Telegram
-- [Витя Чел](https://www.youtube.com/channel/UC4cueEAH9Oq94E1ynBiVJhw) on YouTube
+- ~[Витя Чел](https://www.youtube.com/channel/UC4cueEAH9Oq94E1ynBiVJhw) on YouTube~
 - [@VityaSchel](https://instagram.com/vityaschel) in Instagram
 - [@VityaSchel](https://codewars.com/users/VityaSchel) on Codewars
 - [@VityaSchel](https://codepen.io/VityaSchel) on Codepen
