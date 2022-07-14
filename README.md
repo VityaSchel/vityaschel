@@ -70,7 +70,7 @@ Read more about me: [hloth.dev](https://hloth.dev)
 #### Reach me:
 - [hi@hloth.dev](mailto:hi@hloth.dev)
 - [@hlothdev](https://t.me/hlothdev) in Telegram
-- ~[Витя Чел](https://www.youtube.com/channel/UC4cueEAH9Oq94E1ynBiVJhw) on YouTube~
+- [Витя Чел](https://archive.hloth.dev/youtube) on YouTube ([archive](https://github.com/VityaSchel/the-archive])
 - [@VityaSchel](https://instagram.com/vityaschel) in Instagram
 - [@VityaSchel](https://codewars.com/users/VityaSchel) on Codewars
 - [@VityaSchel](https://codepen.io/VityaSchel) on Codepen
