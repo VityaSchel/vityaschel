@@ -4,25 +4,7 @@
     svg {
       background-color: #000000;
     }
- @keyframes flyout1 {
-  0% {
-    transform: translateX(calc(50% - calc(367px / 2))) translateY(100%);
-    opacity: 1;
-  }
-  67% {
-    transform: translateX(calc(50% - calc(367px / 2))) translateY(calc(50% - calc(61px / 2))) scale(1.00);
-    opacity: 1;
-  }
-  98% {
-    transform: translateX(calc(50% - calc(367px / 2))) translateY(100%) scale(1.0);
-    opacity: 0;
-  }
-  100% {
-    transform: translateX(calc(50% - calc(367px / 2))) translateY(100%);
-    opacity: 0;
-  }
-}
-
+ 
 @keyframes flyout2 {
   0% {
     transform: translateX(calc(50% - calc(367px / 2))) translateY(100%);
