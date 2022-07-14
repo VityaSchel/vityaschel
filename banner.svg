@@ -9,20 +9,6 @@
     transform: translateX(calc(50% - calc(367px / 2))) translateY(100%);
     opacity: 1;
   }
-  1.00% {
-    transform: translateX(calc(50% - calc(367px / 2))) translateY(100%) scale(1.0);
-    opacity: 1;
-  }
-  13.50% {
-    transform: translateX(calc(50% - calc(367px / 2))) translateY(calc(50% - calc(61px / 2))) 
-     scale(1.00);
-    opacity: 1;
-  }
-  50% {
-    transform: translateX(calc(calc(50% - calc(367px / 2)) - 5px)) translateY(calc(50% - calc(61px / 2))) 
-     scale(1.03);
-    opacity: 1;
-  }
   67% {
     transform: translateX(calc(50% - calc(367px / 2))) translateY(calc(50% - calc(61px / 2))) scale(1.00);
     opacity: 1;
