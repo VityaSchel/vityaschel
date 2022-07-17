@@ -6,6 +6,10 @@
 - 🌱  I’m currently learning Go
 - 🤔  I’m looking for free time
 
+> ⚠️ Starting from 17 July 2022, 13:15 UTC **I'm using GPG key to sign all my commits here and on @hloth account.** Trust only commits with "Verified" badge from me. Also check signature of verified commit, it must be `01162BC86DE54C7A` for this account and `DEE0F7C423D3C578` for hloth.
+
+> 🎉 [Replica Player](https://github.com/VityaSchel/replica-player) is my 100th repository. Celebrate with me by starring it :)
+
 #### Best of mine:
 | <div style="width: 316px">[r/jolygolf](https://github.com/VityaSchel/RedditJolygolfBot)</div> | <div style="width: 316px">[ABOBA Presidental Campaign](https://github.com/VityaSchel/ABOBA-2024-election-campaign-website/)</div> | <div style="width: 316px">[Stigfinnare](https://stigfinnare.utidteam.com)</div> |
 ---|---|---
