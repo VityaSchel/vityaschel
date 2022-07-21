@@ -267,7 +267,8 @@ Remake of legendary Remafia Online written on top of React Native & Expo|My firs
 #### Reach me:
 - [hi@hloth.dev](mailto:hi@hloth.dev)
 - [@hlothdev](https://t.me/hlothdev) in Telegram
-- [Витя Чел](https://archive.hloth.dev/youtube) on YouTube ([archive](https://github.com/VityaSchel/the-archive))
+- [Витя Чел](https://archive.hloth.dev/youtube) on YouTube ([archive](https://github.com/VityaSchel/the-archive) of banned channel)
+- [hloth](https://www.youtube.com/channel/UCBC2YLk3LKBSzTXtbadb-og/) on YouTube (new channel)
 - [@VityaSchel](https://instagram.com/vityaschel) in Instagram
 - [@VityaSchel](https://codewars.com/users/VityaSchel) on Codewars
 - [@VityaSchel](https://codepen.io/VityaSchel) on Codepen
