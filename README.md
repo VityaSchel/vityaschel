@@ -29,19 +29,13 @@
   <thead>
     <tr>
       <th>
-        <img width="316" height="1"/>
         <a href="https://github.com/VityaSchel/RedditJolygolfBot">r/jolygolf</a>
-        <img width="316" height="1"/>
       </th>
       <th>
-        <img width="316" height="1"/>
         <a href="https://github.com/VityaSchel/ABOBA-2024-election-campaign-website/">ABOBA Presidental Campaign</a>
-        <img width="316" height="1"/>
       </th>
       <th>
-        <img width="316" height="1"/>
         <a href="https://stigfinnare.utidteam.com">Stigfinnare</a>
-        <img width="316" height="1"/>
       </th>
     </tr>
   </thead>
@@ -84,9 +78,9 @@ Remake of legendary Remafia Online written on top of React Native & Expo|My firs
 <table>
   <thead>
     <tr>
-      <th><img width="441" height="1"/> Fun</th>
-      <th><img width="441" height="1"/> Useful</th>
-      <th><img width="441" height="1"/> Other</th>
+      <th>Fun</th>
+      <th>Useful</th>
+      <th>Other</th>
     </tr>
   </thead>
   <tbody>
