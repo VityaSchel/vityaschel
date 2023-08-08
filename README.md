@@ -4,7 +4,7 @@
   <samp>
     <a href="https://hloth.dev/me">About me</a> • 
     <a href="https://hloth.dev/portfolio">Portfolio</a> • 
-    <a href="https://hloth.dev/donate">Donate</a> • 
+    <a href="https://cv.hloth.dev/">Resume / CV</a> • 
     <a href="#reach-me">Contacts</a>
   </samp>
 </p>
@@ -14,13 +14,16 @@
 ### Viktor Shchelochkov (@hloth)
 
 - 🔭  I’m currently working to move from Russia somewhere
-- 🌱  I’m currently dating
-- 🤔  I’m looking for free time
-- Read more about me: [hloth.dev/me](https://hloth.dev/me)
+- 🌱  I’m against Russian-Ukrainian war, instead of war I’m making love with my [bf](https://github.com/devio10)
+- 🤔  I’m looking for a full-time job! Requirements: Europe/USA with work visa, from 30€/hour, see [CV](https://cv.hloth.dev)
+
+✨ **I have over 136 repositories on GitHub, dozens of repositories on GitLab, many happy clients from Freelance over the years, one of whom I worked over 200 hours with — [hire me](https://t.me/hlothdev)!** ✨
+
+---
 
 > ⚠️ Starting from 17 July 2022, 13:15 UTC **I'm using GPG key to sign all my commits here and on @hloth account.** Trust only commits with "Verified" badge from me. Also check signature of verified commit, it must be `01162BC86DE54C7A` for this account and `DEE0F7C423D3C578` for hloth.
 
-> 🎉 [Replica Player](https://github.com/VityaSchel/replica-player) is my 100th repository. Celebrate with me by starring it :)
+> 🎉 [Replica Player](https://github.com/VityaSchel/replica-player) is my 100th repository, replicating all features of YouTube web player as a React component for opensource community. Celebrate with me by starring it :)
 
 <br></br>
 
@@ -154,7 +157,7 @@ Sorted from best to worst
 
 <details>
 
-<summary><h4>FAQ</h4></summary>
+<summary><h4>🙋‍♂️ Frequently Asked Questions, autobiography</h4></summary>
 
 <dl>
   <dd>
@@ -177,7 +180,7 @@ Sorted from best to worst
   >
   > At the age of 10 I downloaded Python and finally switched from Pascal to it. For the next two years I would constantly solve problems on contests sites (Russian alternatives to Codewars). Around the same time I learned about phpDevelStudio and created my first GUI application, this is how I started learning php. In fourth grade I created my very first website on uCoz CMS for my school class, which brought me popularity in school. With it I learned the very basics of HTML/XML and CSS.
   >
-  > Around the age of 12, I finally moved from command blocks in Minecraft to real programming languages. At the same time I also tried writing mobile apps in Java for the first time, but quickly abandoned it. Also I downloaded Unity for the first time and spent all the two weeks of vacation in Crimea, learning C# and the engine's features. After that I rarely visited my online profile on Scratch.
+  > Around the age of 12, I finally moved from command blocks in Minecraft to real programming languages. At the same time I also tried writing mobile apps in Java for the first time, but quickly abandoned it. Also I downloaded Unity for the first time and spent all the two weeks of vacation, learning C# and the engine's features. After that I rarely visited my online profile on Scratch.
   >
   > When I was 13, several things happened at once: I released my first Unity game (Big Quest) and in September I released my first mobile game (Roller-ride) and added it to Play Market, right after that I started developing Stigfinnare, I also made my first website on JS with XMLHttpRequst ("What's the difference?") and I met people who would almost ruin my career in the future.
   >
@@ -207,7 +210,7 @@ Sorted from best to worst
   >
   > В 10 лет я скачал Python и наконец перешел с Pascal на него. Следующие два года я буду постоянно решать задачи на контестирующих сайтах (российские альтернативы codewars). Примерно в то же время я узнал о phpDevelStudio и создал свое первое приложение с графическим интерфейсом, таким образом я начал учить php. Также в четвертом классе я создал свой самый первый веб-сайт на uCoz CMS для своего школьного класса, что принесло мне популярность в школе. Благодаря нему я изучил самые основы HTML/XML и CSS.
   >
-  > Примерно в 12 лет я наконец забросил командные блоки в Minecraft и стал программировать на настоящих языках программирования. В то же время я впервые попробовал писать мобильные приложения на Java, но быстро забросил это дело. Также я впервые скачал Unity и провел все две недели отдыха на каникулах в Крыму, изучая C# и особенности движка. После этого я окончательно забросил свой онлайн-профиль на Scratch.
+  > Примерно в 12 лет я наконец забросил командные блоки в Minecraft и стал программировать на настоящих языках программирования. В то же время я впервые попробовал писать мобильные приложения на Java, но быстро забросил это дело. Также я впервые скачал Unity и провел все две недели отдыха на каникулах, изучая C# и особенности движка. После этого я окончательно забросил свой онлайн-профиль на Scratch.
   >
   > В 13 лет произошло сразу несколько вещей: Я выпустил свою первую игру на Unity (Big Quest), а в сентябре выпустил свою первую мобильную игру (Roller-ride) и добавил ее в Play Market, сразу после этого я начал разработку Stigfinnare, также я сделал свой первый сайт (В чем разница?) и повстречал людей, которые в будущем почти испортят мне карьеру.
   >
@@ -238,17 +241,9 @@ Sorted from best to worst
   <dd><hr></hr></dd>
   <dd>
   
-  > Q: Why are you asking for donations even though you work full-time?
+  > Q: Can I offer you a full-time job or discuss a one-time project?
   >
-  > A: All money I get from freelance will be used to migrate from Russia. All money from donations are used to pay rent for server and only then used by me (unless you specify something else in donation message).
-  
-  </dd>
-  <dd><hr></hr></dd>
-  <dd>
-  
-  > Q: Can I offer you a full-time job or discuss an order?
-  >
-  > A: Talk to [me in Telegram](https://hloth.dev/tg). I usually respond within minutes during work hours (2 PM - 7 PM Moscow time, Mon-Fri)
+  > A: Talk to [me in Telegram](https://hloth.dev/tg). I usually respond within minutes during work hours (2 PM - 7 PM Moscow time, Mon-Fri), but also I have [auto-responder](https://github.com/VityaSchel/hloth-telegram-greeting).
   
   </dd>
   <dd><hr></hr></dd>
@@ -264,11 +259,12 @@ Sorted from best to worst
 </details>
 
 #### Reach me:
+- Call me at `8 9019 404 69 8`
 - [hi@hloth.dev](mailto:hi@hloth.dev)
-- [@hlothdev](https://t.me/hlothdev) in Telegram
+- [@hlothdev](https://t.me/hlothdev) in Telegram ([auto-responder](https://github.com/VityaSchel/hloth-telegram-greeting) works 24/7)
 - [Витя Чел](https://archive.hloth.dev/youtube) on YouTube ([archive](https://github.com/VityaSchel/the-archive) of banned channel)
 - [hloth](https://www.youtube.com/channel/UCBC2YLk3LKBSzTXtbadb-og/) on YouTube (new channel)
-- [@VityaSchel](https://instagram.com/vityaschel) in Instagram
+- [@VityaCzech 🏳️‍🌈](https://instagram.com/vityaczech) in Instagram
 - [@VityaSchel](https://codewars.com/users/VityaSchel) on Codewars
 - [@VityaSchel](https://codepen.io/VityaSchel) on Codepen
 - [@VityaSchel](https://codesandbox.io/u/vityaschel) on Codesandbox
