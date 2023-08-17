@@ -27,56 +27,173 @@
 
 <br></br>
 
-#### My popular projects:
+#### My popular websites and featured projects (all opensource):
 <table>
   <thead>
     <tr>
       <th>
-        <a href="https://github.com/VityaSchel/RedditJolygolfBot">r/jolygolf</a>
+        <a href="https://github.com/VityaSchel/shizonyan">shizonyan.ru</a>
       </th>
       <th>
-        <a href="https://github.com/VityaSchel/ABOBA-2024-election-campaign-website/">ABOBA Presidental Campaign</a>
+        <a href="https://github.com/VityaSchel/SIPacker">sipacker.ru</a>
       </th>
       <th>
-        <a href="https://stigfinnare.utidteam.com">Stigfinnare</a>
+        <a href="https://github.com/VityaSchel/informatics-OGE-generator">ogeinfo.ru</a>
       </th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="width: 33%">
-        <a href="https://github.com/VityaSchel/RedditJolygolfBot">
-          <img width="100%" alt="r/jolygolf" src="https://user-images.githubusercontent.com/59040542/109418542-51fc6f80-79e2-11eb-8de7-bbafa387befe.png">
+        <a href="https://github.com/VityaSchel/shizonyan">
+          <img width="100%" alt="shizonyan.ru" src="./assets/shizonyan.png">
         </a>
       </td>
       <td style="width: 33%">
-        <a href="https://github.com/VityaSchel/ABOBA-2024-election-campaign-website/">
-          <img width="100%" alt="ABOBA Presidental Campaign" src="https://user-images.githubusercontent.com/59040542/144708238-f5124658-9eb1-497b-9162-afaa8b05248e.png">
+        <a href="https://github.com/VityaSchel/SIPacker">
+          <img width="100%" alt="sipacker.ru" src="./assets/sipacker.png">
         </a>
       </td>
       <td style="width: 33%">
-        <a href="https://stigfinnare.utidteam.com">
-          <img width="100%" alt="Stigfinnare" src="https://user-images.githubusercontent.com/59040542/109418539-4f9a1580-79e2-11eb-90d2-3593ac44c53f.png">
+        <a href="https://github.com/VityaSchel/informatics-OGE-generator">
+          <img width="100%" alt="oge informatics generator" src="./assets/oge.png">
         </a>
       </td>
     </tr>
     <tr>
-      <td>Bot that reposts memes from VK (in subreddit — from На приёме у Шевцова)</td>
-      <td>Website for an upcoming Russian leader Valeriy Aboba</td>
-      <td>MMO Battleroyale videogame with a collection of minigames</td>
+      <td>Simple React website that generates Margarita Simonyan quotes, backed by markov chains AI library written in Python</td>
+      <td>Feature-rich full-powered web app built with React, used to edit and create games scenarios for SiGame video-game</td>
+      <td>The most powerful exam preparer for Russian's global school test «ОГЭ» with WASM-powered client-side Python/JS code compiler</td>
     </tr>
   </tbody>
 </table>
 
-<!-- waiting for remafia to come out...
-#### Some of my mobile games:
+#### Side-projects made for fun:
 
-[Remafia]()|[Roller-Ride](https://play.google.com/store/apps/details?id=com.VityaSchel.RollerRide)|[GoStudy's Masha Simulator](https://play.google.com/store/apps/details?id=com.VityaSchel.GoStudyMashaSimulator)
----|---|---
-[<img width="316" alt="Remafia" src="@REMAFIA@">]()|[<img width="316" alt="Roller-Ride" src="https://user-images.githubusercontent.com/59040542/134201913-c6af4682-d311-4560-92ed-4d356624a437.png">](https://play.google.com/store/apps/details?id=com.VityaSchel.RollerRide)|[<img width="316" alt="GoStudy's Masha Simulator" src="https://user-images.githubusercontent.com/59040542/134202848-baf1c299-4fea-444f-9176-fa4b64dc117b.png">](https://play.google.com/store/apps/details?id=com.VityaSchel.GoStudyMashaSimulator)
-Remake of legendary Remafia Online written on top of React Native & Expo|My first mobile arcade game made in Unity with (ads, donate removed)|Mobile clicker game made in Unity in honor of Masha from GoStudy  
+<table>
+  <thead>
+    <tr>
+      <th>
+        <a href="https://gadzas.ru">gadzas.ru</a>
+      </th>
+      <th>
+        <a href="https://github.com/VityaSchel/ABOBA-2024-election-campaign-website">aboba2024.ru (opensource)</a>
+      </th>
+      <th>
+        <a href="https://fucksamlit.ru">fucksamlit.ru</a>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="width: 33%">
+        <a href="https://gadzas.ru">
+          <img width="100%" alt="gadzas.ru" src="./assets/gadzas.png">
+        </a>
+      </td>
+      <td style="width: 33%">
+        <a href="https://github.com/VityaSchel/ABOBA-2024-election-campaign-website">
+          <img width="100%" alt="aboba2024.ru" src="./assets/aboba.png">
+        </a>
+      </td>
+      <td style="width: 33%">
+        <a href="https://fucksamlit.ru">
+          <img width="100%" alt="fucksamlit.ru" src="./assets/markov.png">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>My very-first big project in React — a webpage specially for fans of my favourite YouTube streamer Glad Valakas, which contains 103 playable audio fragments</td>
+      <td>My second big project in React — a whole website specially for fans of Glad Valakas, with design similar to Alexey Navalny's presidental campaign website</td>
+      <td>My cybersec article about how I hacked my school and stole all students' personal data including personal photos to prove vice-director is a bad sysadmin</td>
+    </tr>
+  </tbody>
+</table>
 
--->
+#### The cleanest-code websites in opensource for your code review:
+
+<table>
+  <thead>
+    <tr>
+      <th>
+        <a href="https://github.com/VityaSchel/vladimir-solovyev">solovyev.netlify.app</a>
+      </th>
+      <th>
+        <a href="https://github.com/VityaSchel/tor-chat">Tor Chat (.onion)</a>
+      </th>
+      <th>
+        <a href="https://github.com/VityaSchel/hazbin-shop/">hazbin.netlify.app</a>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="width: 33%">
+        <a href="https://github.com/VityaSchel/vladimir-solovyev">
+          <img width="100%" alt="gadzas.ru" src="./assets/solovyev.png">
+        </a>
+      </td>
+      <td style="width: 33%">
+        <a href="https://github.com/VityaSchel/tor-chat">
+          <img width="100%" alt="aboba2024.ru" src="./assets/torchat.png">
+        </a>
+      </td>
+      <td style="width: 33%">
+        <a href="https://github.com/VityaSchel/hazbin-shop/">
+          <img width="100%" alt="hazbin.netlify.app" src="./assets/hazbin.png">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>My first React project built with FSD architecture/methodology, you have to guess who said the quote: Russian propagandist Vladimir Solovyev or Adolf Hitler</td>
+      <td>One of several onion hidden services deployed by me to onion network is a simple anonymous chat built with Vite in strict accordance with Feature-Sliced Design methodolohy</td>
+      <td>I love Minecraft and SMB with my boyfriend so much that I made a simple React webpage with a lot of parallax animations moving with scrolling for my in-game shop</td>
+    </tr>
+  </tbody>
+</table>
+
+#### I'm also into mobile dev, here are some of my native projects for mobile devices:
+
+<table>
+  <thead>
+    <tr>
+      <th>
+        <a href="https://play.google.com/store/apps/details?id=com.VityaSchel.RollerRide">Roller-Ride</a>
+      </th>
+      <th>
+        <a href="https://play.google.com/store/apps/details?id=com.VityaSchel.GoStudyMashaSimulator">GoStudy Masha Simulator</a>
+      </th>
+      <th>
+        <a href="https://github.com/VityaSchel/hazbin-shop/">MTProto Mobile (opensource)</a>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="width: 33%">
+        <a href="https://play.google.com/store/apps/details?id=com.VityaSchel.RollerRide">
+          <img width="100%" alt="Roller-Ride" src="./assets/rollerride.png">
+        </a>
+      </td>
+      <td style="width: 33%">
+        <a href="https://play.google.com/store/apps/details?id=com.VityaSchel.GoStudyMashaSimulator">
+          <img width="100%" alt="GoStudy Masha Simulator" src="./assets/gostudy.png">
+        </a>
+      </td>
+      <td style="width: 33%">
+        <a href="https://github.com/VityaSchel/mtproto-mobile">
+          <img width="100%" alt="Mtproto Mobile" src="./assets/mtproto.png">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Ads-free arcade mobile game I built with Unity when I was 13, published to Play Market by myself; a year later I also published another Unity game to Steam</td>
+      <td>Ads-free clicker mobile game built with Unity in 7 days as a protesting act for a czech language-studying school, that later refused to accept me as a student</td>
+      <td>In addition to web I also love bot-development, especially Telegram API's MTProto — that's why I built a raw mobile client for Telegram API with Expo and React Native</td>
+    </tr>
+  </tbody>
+</table>
+
 #### My other works:
 <table>
   <thead>
@@ -89,18 +206,13 @@ Remake of legendary Remafia Online written on top of React Native & Expo|My firs
   <tbody>
     <tr>
       <td><a href="https://vityaschel.github.io/panic-button/"><img src="https://user-images.githubusercontent.com/59040542/113713982-fae06d80-96f8-11eb-96fc-db85517df744.png" height="15px"/> Panic Button (literally)</a></td>
-      <td><a href="https://github.com/VityaSchel/SIPacker"><img src="https://user-images.githubusercontent.com/59040542/134213908-ce7bedd0-7979-4b2f-befc-b659c299330c.png" height="15px"/> SIPacker</a></td>
+      <td><a href="https://github.com/VityaSchel/telegram-channel-mirror-mtproto">telegram-channel-mirror-mtproto</a></td>
       <td><a href="http://navalnyarrested.utidteam.com/"><img src="https://user-images.githubusercontent.com/59040542/113713981-fae06d80-96f8-11eb-9b94-2b8026aaf34a.png" height="15px"/> Is Navalny arrested right now?</a></td>
     </tr>
     <tr>
       <td><a href="https://wikipedia.utidteam.com/"><img src="https://user-images.githubusercontent.com/59040542/113714003-fddb5e00-96f8-11eb-8b1d-6d00c05d9cad.png" height="15px"/> Wikipedia speedrun (browser-game)</a></td>
-      <td><a href="https://github.com/VityaSchel/telegram-channel-mirror-mtproto">telegram-channel-mirror-mtproto</a></td>
-      <td><a href="https://github.com/VityaSchel/the-archive"><img src="https://raw.githubusercontent.com/VityaSchel/the-archive/71174727424d277fc6fd60c232ab40ffbd58c1ec/public/favicon-16x16.png" /> The Archive</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/VityaSchel/vladimir-solovyev"><img src="https://user-images.githubusercontent.com/59040542/113713995-fd42c780-96f8-11eb-8b3f-129c92411bc4.png" height="15px"/> Hitler or Vladimir Solovyev?</a></td>
       <td><a href="https://github.com/VityaSchel/mafiaonline.js">Mafiaonline.js</a></td>
-      <td><a href="https://godzilla.utidteam.com"><img src="https://user-images.githubusercontent.com/59040542/179426330-9cd56a5c-102e-44d2-bb41-154af5438429.png"/> Гадзы Глада Валакаса</a></td>
+      <td><a href="https://github.com/VityaSchel/the-archive"><img src="https://raw.githubusercontent.com/VityaSchel/the-archive/71174727424d277fc6fd60c232ab40ffbd58c1ec/public/favicon-16x16.png" /> The Archive</a></td>
     </tr>
     <tr>
       <td><a href="https://utidteam.com/gostudy/"><img src="https://user-images.githubusercontent.com/59040542/121818547-e68c9400-cc98-11eb-8da9-a4fe69b9784e.png" height="15px"/> Czech Student Living Costs Calculator</a></td>
@@ -108,14 +220,9 @@ Remake of legendary Remafia Online written on top of React Native & Expo|My firs
       <td><a href="https://github.com/VityaSchel/goodmorning-bot"><img src="https://user-images.githubusercontent.com/59040542/134208883-ee628b8b-4f65-41ae-b0d9-9a85d2f3b2c6.png" height="15px"/> Good Morning Bot</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/VityaSchel/shizonyan"><img src="https://user-images.githubusercontent.com/59040542/119943038-8e207b80-bfa3-11eb-8892-5af5a839581e.png" height="15px"/> Shizonyan — Tweets generator</a></td>
+      <td><a href="https://utidteam.com/FITvsFEL/"><img src="https://user-images.githubusercontent.com/59040542/121818531-d70d4b00-cc98-11eb-8fab-81e0981448a9.png" height="15px"/> ČVUT: FIT vs FEL</a></td>
       <td><a href="https://github.com/VityaSchel/private-repo-cloner">private-repo-cloner</a></td>
       <td><a href="https://github.com/VityaSchel/ruscript"><img src="https://user-images.githubusercontent.com/59040542/113713991-fcaa3100-96f8-11eb-85be-8f5e03c8cb15.png" height="15px"/> Ruscript — programming language</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://utidteam.com/FITvsFEL/"><img src="https://user-images.githubusercontent.com/59040542/121818531-d70d4b00-cc98-11eb-8fab-81e0981448a9.png" height="15px"/> ČVUT: FIT vs FEL</a></td>
-      <td><a href="https://github.com/VityaSchel/informatics-oge-generator"><img src="https://user-images.githubusercontent.com/59040542/179426269-6b5df15b-e765-4fe6-a1bc-3893b509f829.png" height="15px"/> ОГЭ Генератор</a></td>
-      <td><a href="https://github.com/VityaSchel/replica-player">Replica Player</a></td>
     </tr>
   </tbody>
 </table>
@@ -130,21 +237,22 @@ Sorted from best to worst
 | Name                                                                                 | Description                                                                                                                                                   | Usefulness<sup>1</sup> | Effort<sup>1</sup> | Release date |
 | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ------------------ | ------------ |
 | [@hloth/scaffold](https://npmjs.com/package/@hloth/scaffold)                         | NPX tool for me to easily scaffold new project, containing TypeScript config for modern ES, eslint with my favorite code style and Jest tests with ts support | 10/10                  | 7/10               | Nov 19 2022  |
+| [waveformer](https://npmjs.com/package/waveformer)                                   | Calculates peaks of audio without drawing it to canvas or creating audio                                                                                      | 10/10                  | 4/10               | Oct 30 2021  |
+| [lgbtize](https://npmjs.com/package/lgbtize)                                         | Node.js utilities to LGBTize everything                                                                                                                       | 3/10                   | 2/10               | Apr 14 2023  |
 | [s-otk-js](https://npmjs.com/package/s-otk-js)                                       | Неофициальная обертка для закрытого API сайта Самарской Объединенной Транспортной Карты, написанная с TypeScript и Jest                                       | 10/10                  | 10/10              | Apr 23 2022  |
 | [asurso](https://npmjs.com/package/asurso)                                           | Asurso.ru API wrapper [beta]                                                                                                                                  | 10/10                  | 8/10               | Feb 09 2022  |
+| [checkerboardjs](https://npmjs.com/package/checkerboardjs)                           | Easily draw transparency pattern on canvas when flattenning images                                                                                            | 6/10                   | 5/10               | Oct 11 2021  |
 | [mafiaonline.js](https://npmjs.com/package/mafiaonline.js)                           | Обертка API Мафии онлайн на Node.js                                                                                                                           | 10/10                  | 10/10              | Apr 29 2022  |
-| [replica-player](https://npmjs.com/package/replica-player)                           | Video-player for React that is identical to YouTube's player. YouTube video-player clone.                                                                     | 10/10                  | 8/10               | Jul 17 2022  |
 | [my.telegram.org-api-wrapper](https://npmjs.com/package/my.telegram.org-api-wrapper) | Полностью типизированная библиотека с оберткой для my.telegram.org                                                                                            | 7/10                   | 5/10               | Oct 30 2022  |
 | [sigame-packs-api](https://npmjs.com/package/sigame-packs-api)                       | API wrapper for sigame.ru which displays info about SiGame packs                                                                                              | 8/10                   | 6/10               | Oct 19 2021  |
-| [mafia-tools](https://npmjs.com/package/mafia-tools)<sup>2</sup>                     | API игры Мафия Онлайн на Node.JS с поддержкой ES6 и Promise                                                                                                   | 1/10                   | 8/10               | Aug 26 2021  |
 | [react-graphic-key](https://npmjs.com/package/react-graphic-key)                     | Customizable ReactJS component of graphic key                                                                                                                 | 8/10                   | 5/10               | Apr 08 2021  |
 | [reddit-api-image-upload](https://npmjs.com/package/reddit-api-image-upload)         | NodeJS module for uploading images directly to Reddit server and then use it with any "full-featured beta wrapper" to submit post.                            | 9/10                   | 5/10               | Mar 20 2022  |
 | [random-steam-avatar](https://npmjs.com/package/random-steam-avatar)                 | Async function that returns 100 steam avatars from [randomavatar.com](https://randomavatar.com/more.php).                                                     | 5/10                   | 2/10               | Jan 06 2022  |
+| [replica-player](https://npmjs.com/package/replica-player)                           | Video-player for React that is identical to YouTube's player. YouTube video-player clone.                                                                     | 10/10                  | 8/10               | Jul 17 2022  |
+| [mafia-tools](https://npmjs.com/package/mafia-tools)<sup>2</sup>                     | API игры Мафия Онлайн на Node.JS с поддержкой ES6 и Promise                                                                                                   | 1/10                   | 8/10               | Aug 26 2021  |
 | [destream-api](https://npmjs.com/package/destream-api)                               | Full featured DeStream API NodeJS wrapper [BETA]                                                                                                              | 7/10                   | 6/10               | May 31 2021  |
 | [alerts-api](https://npmjs.com/package/alerts-api)                                   | Donation Alerts API wrapper for Node.JS which supports ES6 promises [BETA]                                                                                    | 6/10                   | 7/10               | May 28 2021  |
-| [waveformer](https://npmjs.com/package/waveformer)                                   | Calculates peaks of audio without drawing it to canvas or creating audio                                                                                      | 7/10                   | 4/10               | Oct 30 2021  |
 | [esoteric-ruscript](https://npmjs.com/package/esoteric-ruscript)                     | Высокоуровневый конкативный эзотерический язык программирования с русскоязычным синтаксисом, компилирующийся в JavaScript.                                    | 1/10                   | 6/10               | Jan 30 2021  |
-| [checkerboardjs](https://npmjs.com/package/checkerboardjs)                           | Easily draw transparency pattern on canvas when flattenning images                                                                                            | 6/10                   | 5/10               | Oct 11 2021  |
 | [use-scrolled-past](https://npmjs.com/package/use-scrolled-past)                     | Use this hook to build links in navigation                                                                                                                    | 3/10                   | 2/10               | Sep 29 2021  |
 | [aboba](https://npmjs.com/package/aboba)                                             | Micro package for polyfilling. Exports {} in ESM syntax. Абоба.                                                                                               | Depends                | 0/10               | Oct 1 2022   |
 |                                                                                      |                                                                                                                                                               |                        |                    |              |
@@ -257,6 +365,8 @@ Sorted from best to worst
 </dl>
 
 </details>
+
+I also commited my work to the Bad Apple community by playing it on lolzteam user's nicknames: [https://github.com/VityaSchel/bad-apple](https://github.com/VityaSchel/bad-apple)
 
 #### Reach me:
 - Call me at `8 9019 404 69 8`
