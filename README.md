@@ -21,7 +21,7 @@
 
 ---
 
-> ⚠️ Starting from 17 July 2022, 13:15 UTC **I'm using GPG key to sign all my commits here and on @hloth account.** Trust only commits with "Verified" badge from me. Also check signature of verified commit, it must be `01162BC86DE54C7A` for this account and `DEE0F7C423D3C578` for hloth.
+> ⚠️ Starting from 17 July 2022, 13:15 UTC **I'm using GPG key to sign all my commits here and on @hloth account.** Trust only commits with "Verified" badge from me. Also check signature of verified commit, it must be `A7EA9B54F67F9685` (earlier `01162BC86DE54C7A`) or `62036A0EB54FB7AF` if I commit from Windows — for this account and `04255EC8D29C0AAF` (earlier `DEE0F7C423D3C578`) for hloth.
 
 > 🎉 [Replica Player](https://github.com/VityaSchel/replica-player) is my 100th repository, replicating all features of YouTube web player as a React component for opensource community. Celebrate with me by starring it :)
 
