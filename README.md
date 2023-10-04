@@ -32,7 +32,7 @@
   <thead>
     <tr>
       <th>
-        <a href="https://github.com/VityaSchel/shizonyan">shizonyan.ru</a>
+        <a href="https://github.com/VityaSchel/kspguti-schedule">kspsuti.ru</a>
       </th>
       <th>
         <a href="https://github.com/VityaSchel/SIPacker">sipacker.ru</a>
@@ -45,8 +45,8 @@
   <tbody>
     <tr>
       <td style="width: 33%">
-        <a href="https://github.com/VityaSchel/shizonyan">
-          <img width="100%" alt="shizonyan.ru" src="./assets/shizonyan.png">
+        <a href="https://github.com/VityaSchel/kspguti-schedule">
+          <img width="100%" alt="shizonyan.ru" src="./assets/kspguti-schedule.png">
         </a>
       </td>
       <td style="width: 33%">
@@ -61,7 +61,7 @@
       </td>
     </tr>
     <tr>
-      <td>Simple React website that generates Margarita Simonyan quotes, backed by markov chains AI library written in Python</td>
+      <td>Next.js 13.5 website that parses my college schedule and displays it with shiny @shadcn/ui radix UI components on Tailwind</td>
       <td>Feature-rich full-powered web app built with React, used to edit and create games scenarios for SiGame video-game</td>
       <td>The most powerful exam preparer for Russian's global school test «ОГЭ» with WASM-powered client-side Python/JS code compiler</td>
     </tr>
