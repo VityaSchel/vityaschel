@@ -164,7 +164,7 @@
         <a href="https://play.google.com/store/apps/details?id=com.VityaSchel.GoStudyMashaSimulator">GoStudy Masha Simulator</a>
       </th>
       <th>
-        <a href="https://github.com/VityaSchel/hazbin-shop/">MTProto Mobile (opensource)</a>
+        <a href="https://github.com/VityaSchel/mtproto-mobile">MTProto Mobile (opensource)</a>
       </th>
     </tr>
   </thead>
