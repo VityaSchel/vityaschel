@@ -17,7 +17,7 @@
 - 🌱  I’m against Russian-Ukrainian war, instead of war I’m making love with my [bf](https://github.com/devio10)
 - 🤔  I’m looking for a full-time job! Requirements: Europe/USA with work visa, from 30€/hour, see [CV](https://cv.hloth.dev)
 
-✨ **I have over 136 repositories on GitHub, dozens of repositories on GitLab, many happy clients from Freelance over the years, one of whom I worked over 200 hours with — [hire me](https://t.me/hlothdev)!** ✨
+✨ **I have over 150 repositories on GitHub, dozens of repositories on GitLab, many happy clients from Freelance over the years, one of whom I worked over 530 hours with — [hire me](https://t.me/hlothdev)!** ✨
 
 ---
 
