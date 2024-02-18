@@ -27,6 +27,41 @@
 
 <br></br>
 
+#### My best project yet:
+
+[![image](https://github.com/VityaSchel/vityaschel/assets/59040542/02f48873-e480-42e5-8f72-06b403e80802)](https://ons.sessionbots.directory/)
+
+[Open Oxen Name System registry](https://ons.sessionbots.directory). Fast and free for everyone. Explore ONS records in OXEN blockchain, filter by owner, lookup by partial text query for unhashed names, view estimated money spent on all records by specified owner. Local-first, fully mobile-optimized. Purchase system allows you to buy any ONS name in 30 seconds without having to own oxen wallet and buying crypto — just type in name you want, pay money and it will be automatically pushed to blockchain along with sending you wallet-owner mnemonic to specified email (if you specified it).
+- Service Worker
+  - Caches all assets for offline visits
+  - Downloads whole ONS db (2mb) if user is connected to Wi-Fi, has "saveData" set to false in device settings and has fast connection speed. Then uses this database when user visits ONS Registry being offline. Updates are based on E-Tag header.
+  - Otherwise, falls back to remote searches. In any case, any new found hash matches are cached to server using Background Sync web interface
+- For hashing and encryption, I'm using WebAssembly on frontend and crypto module in Node.js on backend
+- For storage I'm using Cache API web interface on frontend and sqlite on backend
+- Fully localized for two languages using next-i18next
+- Integrated with YooKassa API for payments and shell for communication with oxen daemon.
+- Automatically fetches, parses and analyzes new blockchain transactions via JsonRPC api connected to public node
+- Uses CoinGecko API and OXEN coin historical price data to estimate how much money owner spent on their records
+- Uses custom Monero base58 encoding to convert between ed25519 keypairs and OXEN wallet addresses
+- Accessibility and fancy design built with @shadcn/ui
+- No ads and bullshit. Free API for everyone with [reference and documentation](https://t.me/session_nodejs)
+- Built with React, Next.js, next-pwa, Tailwind, Redux-toolkit
+- More info: https://t.me/session_nodejs | Visit the website: https://ons.sessionbots.directory
+
+#### Also check Session Bots Directory website:
+
+[<img width="1394" alt="image" src="https://github.com/VityaSchel/vityaschel/assets/59040542/b2feaafc-7999-4a63-9e48-514b643d906b">](https://sessionbots.directory)
+
+Session Bots Directory is a place to discover bots created by Session messenger developers community.
+- Free and [opensource](https://github.com/VityaSchel/session-bots-directory)
+- No personal info is collected for signups
+- Adding new bot is as easy as writing a little info about it and verifying response from bot to make sure you're the real author of it — it can be done in less than 60 seconds
+- All moderation is automatically done by GPT. It does not allow any illegal topics and any visitor can report any bot anytime with instant notification to me for additional review
+- All bots are automatically checked for uptime using custom checker built on top of my free&opensource [bot framework for Session](https://github.com/VityaSchel/session-nodejs-bot)
+- Frontend is built with Remix (my first Remix project), Tailwind and @shadcn/ui library
+- Backend is built with Fastify and Node.js; for DB I'm using Redis
+- More info: https://t.me/session_nodejs | Visit the website: https://sessionbots.directory
+
 #### My popular websites and featured projects (all opensource):
 <table>
   <thead>
