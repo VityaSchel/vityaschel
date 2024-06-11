@@ -13,9 +13,9 @@
 
 ### Viktor Shchelochkov (@hloth)
 
-- 🔭  I’m currently working to move from Russia somewhere
-- 🌱  I’m against Russian-Ukrainian war, instead of war I’m making love with my [bf](https://github.com/devio10)
-- 🤔  I’m looking for a full-time job! Requirements: Europe/USA with work visa, from 30€/hour, see [CV](https://cv.hloth.dev)
+- 🔭  I’m in love with my [bf](https://github.com/devio10)
+- 🌱  I’m against Russian-Ukrainian war, instead of war I’m making love
+- 🤔  I’m looking for a full-time job in United States with work visa, expecting 150-200k$/year, [here is my resume](https://cv.hloth.dev)
 
 ✨ **I have over 150 repositories on GitHub, dozens of repositories on GitLab, many happy clients from Freelance over the years, one of whom I worked over 530 hours with — [hire me](https://t.me/hlothdev)!** ✨
 
