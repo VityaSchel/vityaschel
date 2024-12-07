@@ -29,9 +29,9 @@
 
 #### My best project yet:
 
-[![image](https://github.com/VityaSchel/vityaschel/assets/59040542/02f48873-e480-42e5-8f72-06b403e80802)](https://ons.sessionbots.directory/)
+[![image](https://github.com/VityaSchel/vityaschel/assets/59040542/02f48873-e480-42e5-8f72-06b403e80802)](https://ons.session.community/)
 
-[Open Oxen Name System registry](https://ons.sessionbots.directory). Fast and free for everyone. Explore ONS records in OXEN blockchain, filter by owner, lookup by partial text query for unhashed names, view estimated money spent on all records by specified owner. Local-first, fully mobile-optimized. Purchase system allows you to buy any ONS name in 30 seconds without having to own oxen wallet and buying crypto — just type in name you want, pay money and it will be automatically pushed to blockchain along with sending you wallet-owner mnemonic to specified email (if you specified it).
+[Open Oxen Name System registry](https://ons.session.community). Fast and free for everyone. Explore ONS records in OXEN blockchain, filter by owner, lookup by partial text query for unhashed names, view estimated money spent on all records by specified owner. Local-first, fully mobile-optimized. Purchase system allows you to buy any ONS name in 30 seconds without having to own oxen wallet and buying crypto — just type in name you want, pay money and it will be automatically pushed to blockchain along with sending you wallet-owner mnemonic to specified email (if you specified it).
 - Service Worker
   - Caches all assets for offline visits
   - Downloads whole ONS db (2mb) if user is connected to Wi-Fi, has "saveData" set to false in device settings and has fast connection speed. Then uses this database when user visits ONS Registry being offline. Updates are based on E-Tag header.
@@ -46,11 +46,11 @@
 - Accessibility and fancy design built with @shadcn/ui
 - No ads and bullshit. Free API for everyone with [reference and documentation](https://t.me/session_nodejs)
 - Built with React, Next.js, next-pwa, Tailwind, Redux-toolkit
-- More info: https://t.me/session_nodejs | Visit the website: https://ons.sessionbots.directory
+- More info: https://t.me/session_nodejs | Visit the website: https://ons.session.community
 
 #### Also check Session Bots Directory website:
 
-[<img width="1394" alt="image" src="https://github.com/VityaSchel/vityaschel/assets/59040542/b2feaafc-7999-4a63-9e48-514b643d906b">](https://sessionbots.directory)
+[<img width="1394" alt="image" src="https://github.com/VityaSchel/vityaschel/assets/59040542/b2feaafc-7999-4a63-9e48-514b643d906b">](https://bots.session.community)
 
 Session Bots Directory is a place to discover bots created by Session messenger developers community.
 - Free and [opensource](https://github.com/VityaSchel/session-bots-directory)
@@ -60,7 +60,7 @@ Session Bots Directory is a place to discover bots created by Session messenger 
 - All bots are automatically checked for uptime using custom checker built on top of my free&opensource [bot framework for Session](https://github.com/VityaSchel/session-nodejs-bot)
 - Frontend is built with Remix (my first Remix project), Tailwind and @shadcn/ui library
 - Backend is built with Fastify and Node.js; for DB I'm using Redis
-- More info: https://t.me/session_nodejs | Visit the website: https://sessionbots.directory
+- More info: https://t.me/session_nodejs | Visit the website: https://bots.session.community
 
 #### My popular websites and featured projects (all opensource):
 <table>
