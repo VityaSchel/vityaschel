@@ -5,6 +5,8 @@
     <a href="https://hloth.dev/me">About me</a> • 
     <a href="https://hloth.dev/portfolio">Portfolio</a> • 
     <a href="https://cv.hloth.dev/">Resume / CV</a> • 
+    <a href="https://blog.hloth.dev">Blog</a> • 
+    <a href="https://www.upwork.com/freelancers/~01a1f59e7a4697be89">Upwork profile</a> • 
     <a href="#reach-me">Contacts</a>
   </samp>
 </p>
@@ -15,249 +17,86 @@
 
 - 🔭  I’m in love with my [bf](https://github.com/devio10)
 - 🌱  I’m against Russian-Ukrainian war, instead of war I’m making love
-- 🤔  I’m looking for a full-time job in United States with work visa, expecting 150-200k$/year, [here is my resume](https://cv.hloth.dev)
+- 🤔  I’m looking for a remote full-time job, expecting >=100k$/year, [here is my resume](https://cv.hloth.dev)
 
-✨ **I have over 150 repositories on GitHub, dozens of repositories on GitLab, many happy clients from Freelance over the years, one of whom I worked over 530 hours with — [hire me](https://t.me/hlothdev)!** ✨
+✨ **I have over 180 repositories on GitHub, 4 years of Freelance experience and always write consistent quality future-prood code for maintenance and scalability — [hire me](https://t.me/hlothdev)!** ✨
 
----
 
-> ⚠️ Starting from 17 July 2022, 13:15 UTC **I'm using GPG key to sign all my commits here and on @hloth account.** Trust only commits with "Verified" badge from me. Also check signature of verified commit, it must be `A7EA9B54F67F9685` (earlier `01162BC86DE54C7A`) or `62036A0EB54FB7AF` if I commit from Windows — for this account and `04255EC8D29C0AAF` (earlier `DEE0F7C423D3C578`) for hloth.
+<details>
+  <summary><b>⚠️ All my commits are signed, reveal to learn how to prove the commit was made by me</b></summary>
+  <br />
+  
+  I'm signing all my commits with a GPG key and have GitHub's vigilant mode enabled.
+  
+  Starting from 17 July 2022, 13:15 UTC **I'm using GPG key to sign all my commits here and on @hloth account.** Trust only commits with "Verified" badge from me. Also check signature of verified commit, it must be `A7EA9B54F67F9685` (earlier `01162BC86DE54C7A`) or `62036A0EB54FB7AF` if I commit from Windows — for this account and `04255EC8D29C0AAF` (earlier `DEE0F7C423D3C578`) for hloth.
 
-> 🎉 [Replica Player](https://github.com/VityaSchel/replica-player) is my 100th repository, replicating all features of YouTube web player as a React component for opensource community. Celebrate with me by starring it :)
+</details>
 
-<br></br>
+## Some of my projects:
 
-#### My best project yet:
+### [Moreofme — one link to to share what makes you unique](https://moreof.me)
+
+[![Moreofme screenshot](https://github.com/user-attachments/assets/91597e69-86bd-499d-8a09-49a2b82ea98f)](https://moreof.me)
+
+This is my first and biggest project in Svelte and now I prefer it over React. I also learned PostgreSQL in the 4 months that we were building this project and now prefer it over MongoDB. You can read more tech stuff in [my blog article](https://blog.hloth.dev/blog/moreofme).
+
+### [Open Oxen Name System registry](https://ons.session.community)
 
 [![image](https://github.com/VityaSchel/vityaschel/assets/59040542/02f48873-e480-42e5-8f72-06b403e80802)](https://ons.session.community/)
 
-[Open Oxen Name System registry](https://ons.session.community). Fast and free for everyone. Explore ONS records in OXEN blockchain, filter by owner, lookup by partial text query for unhashed names, view estimated money spent on all records by specified owner. Local-first, fully mobile-optimized. Purchase system allows you to buy any ONS name in 30 seconds without having to own oxen wallet and buying crypto — just type in name you want, pay money and it will be automatically pushed to blockchain along with sending you wallet-owner mnemonic to specified email (if you specified it).
-- Service Worker
-  - Caches all assets for offline visits
-  - Downloads whole ONS db (2mb) if user is connected to Wi-Fi, has "saveData" set to false in device settings and has fast connection speed. Then uses this database when user visits ONS Registry being offline. Updates are based on E-Tag header.
-  - Otherwise, falls back to remote searches. In any case, any new found hash matches are cached to server using Background Sync web interface
-- For hashing and encryption, I'm using WebAssembly on frontend and crypto module in Node.js on backend
-- For storage I'm using Cache API web interface on frontend and sqlite on backend
-- Fully localized for two languages using next-i18next
-- Integrated with YooKassa API for payments and shell for communication with oxen daemon.
-- Automatically fetches, parses and analyzes new blockchain transactions via JsonRPC api connected to public node
-- Uses CoinGecko API and OXEN coin historical price data to estimate how much money owner spent on their records
-- Uses custom Monero base58 encoding to convert between ed25519 keypairs and OXEN wallet addresses
-- Accessibility and fancy design built with @shadcn/ui
-- No ads and bullshit. Free API for everyone with [reference and documentation](https://t.me/session_nodejs)
-- Built with React, Next.js, next-pwa, Tailwind, Redux-toolkit
-- More info: https://t.me/session_nodejs | Visit the website: https://ons.session.community
+Explore ONS records in OXEN blockchain, filter by owner, lookup by partial text query for unhashed names, view estimated money spent on all records by specified owner. Works offline, mobile-optimized. Uses WASM for hashing and multithreading, Cache API, next-i18next, next-pwa, Tailwind, Redux-toolkit. Has free API.
 
-#### Also check Session Bots Directory website:
+### Other stuff
 
-[<img width="1394" alt="image" src="https://github.com/VityaSchel/vityaschel/assets/59040542/b2feaafc-7999-4a63-9e48-514b643d906b">](https://bots.session.community)
-
-Session Bots Directory is a place to discover bots created by Session messenger developers community.
-- Free and [opensource](https://github.com/VityaSchel/session-bots-directory)
-- No personal info is collected for signups
-- Adding new bot is as easy as writing a little info about it and verifying response from bot to make sure you're the real author of it — it can be done in less than 60 seconds
-- All moderation is automatically done by GPT. It does not allow any illegal topics and any visitor can report any bot anytime with instant notification to me for additional review
-- All bots are automatically checked for uptime using custom checker built on top of my free&opensource [bot framework for Session](https://github.com/VityaSchel/session-nodejs-bot)
-- Frontend is built with Remix (my first Remix project), Tailwind and @shadcn/ui library
-- Backend is built with Fastify and Node.js; for DB I'm using Redis
-- More info: https://t.me/session_nodejs | Visit the website: https://bots.session.community
-
-#### My popular websites and featured projects (all opensource):
 <table>
   <thead>
     <tr>
-      <th>
-        <a href="https://github.com/VityaSchel/kspguti-schedule">kspsuti.ru</a>
-      </th>
-      <th>
-        <a href="https://github.com/VityaSchel/SIPacker">sipacker.ru</a>
-      </th>
-      <th>
-        <a href="https://github.com/VityaSchel/informatics-OGE-generator">ogeinfo.ru</a>
-      </th>
+      <th>Mobile apps & macOS</th>
+      <th>Session-related</th>
+      <th>Experimental</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="width: 33%">
-        <a href="https://github.com/VityaSchel/kspguti-schedule">
-          <img width="100%" alt="shizonyan.ru" src="./assets/kspguti-schedule.png">
-        </a>
-      </td>
-      <td style="width: 33%">
-        <a href="https://github.com/VityaSchel/SIPacker">
-          <img width="100%" alt="sipacker.ru" src="./assets/sipacker.png">
-        </a>
-      </td>
-      <td style="width: 33%">
-        <a href="https://github.com/VityaSchel/informatics-OGE-generator">
-          <img width="100%" alt="oge informatics generator" src="./assets/oge.png">
-        </a>
-      </td>
+      <td><a href="https://github.com/VityaSchel/samsung-pinger">Samsung Pinger widget for macOS</a></td>
+      <td><a href="https://github.com/VityaSchel/bunsogs">Re-implementation of Session's SOGS</a></td>
+      <td><a href="https://github.com/VityaSchel/ps4-app-merge-pkgs">PS4 homebrew app to merge .pkgs in C++</a></td>
     </tr>
     <tr>
-      <td>Next.js 13.5 website that parses my college schedule and displays it with shiny @shadcn/ui radix UI components on Tailwind</td>
-      <td>Feature-rich full-powered web app built with React, used to edit and create games scenarios for SiGame video-game</td>
-      <td>The most powerful exam preparer for Russian's global school test «ОГЭ» with WASM-powered client-side Python/JS code compiler</td>
+      <td><a href="https://github.com/VityaSchel/session-native">Session Native app for macOS</a></td>
+      <td><a href="https://github.com/VityaSchel/session-sogs-bot-autoreply">Auto-reply bot for Session</a></td>
+      <td><a href="https://github.com/VityaSchel/ruscript">Esoteric high-level programming language</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/VityaSchel/meds-reminder">WearOS reminder app for taking meds</td>
+      <td><a href="https://github.com/VityaSchel/session-id-generator">Vanity Session ID generator (website and CLI)</a></td>
+      <td><a href="https://github.com/VityaSchel/vfs-status-bot">VFS visa center checking bot</td>
     </tr>
   </tbody>
 </table>
 
-#### Side-projects made for fun:
-
 <table>
   <thead>
     <tr>
-      <th>
-        <a href="https://gadzas.ru">gadzas.ru</a>
-      </th>
-      <th>
-        <a href="https://github.com/VityaSchel/ABOBA-2024-election-campaign-website">aboba2024.ru (opensource)</a>
-      </th>
-      <th>
-        <a href="https://fucksamlit.ru">fucksamlit.ru</a>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="width: 33%">
-        <a href="https://gadzas.ru">
-          <img width="100%" alt="gadzas.ru" src="./assets/gadzas.png">
-        </a>
-      </td>
-      <td style="width: 33%">
-        <a href="https://github.com/VityaSchel/ABOBA-2024-election-campaign-website">
-          <img width="100%" alt="aboba2024.ru" src="./assets/aboba.png">
-        </a>
-      </td>
-      <td style="width: 33%">
-        <a href="https://fucksamlit.ru">
-          <img width="100%" alt="fucksamlit.ru" src="./assets/markov.png">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>My very-first big project in React — a webpage specially for fans of my favourite YouTube streamer Glad Valakas, which contains 103 playable audio fragments</td>
-      <td>My second big project in React — a whole website specially for fans of Glad Valakas, with design similar to Alexey Navalny's presidental campaign website</td>
-      <td>My cybersec article about how I hacked my school and stole all students' personal data including personal photos to prove vice-director is a bad sysadmin</td>
-    </tr>
-  </tbody>
-</table>
-
-#### The cleanest-code websites in opensource for your code review:
-
-<table>
-  <thead>
-    <tr>
-      <th>
-        <a href="https://github.com/VityaSchel/vladimir-solovyev">solovyev.netlify.app</a>
-      </th>
-      <th>
-        <a href="https://github.com/VityaSchel/tor-chat">Tor Chat (.onion)</a>
-      </th>
-      <th>
-        <a href="https://github.com/VityaSchel/hazbin-shop/">hazbin.netlify.app</a>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="width: 33%">
-        <a href="https://github.com/VityaSchel/vladimir-solovyev">
-          <img width="100%" alt="gadzas.ru" src="./assets/solovyev.png">
-        </a>
-      </td>
-      <td style="width: 33%">
-        <a href="https://github.com/VityaSchel/tor-chat">
-          <img width="100%" alt="aboba2024.ru" src="./assets/torchat.png">
-        </a>
-      </td>
-      <td style="width: 33%">
-        <a href="https://github.com/VityaSchel/hazbin-shop/">
-          <img width="100%" alt="hazbin.netlify.app" src="./assets/hazbin.png">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>My first React project built with FSD architecture/methodology, you have to guess who said the quote: Russian propagandist Vladimir Solovyev or Adolf Hitler</td>
-      <td>One of several onion hidden services deployed by me to onion network is a simple anonymous chat built with Vite in strict accordance with Feature-Sliced Design methodolohy</td>
-      <td>I love Minecraft and SMB with my boyfriend so much that I made a simple React webpage with a lot of parallax animations moving with scrolling for my in-game shop</td>
-    </tr>
-  </tbody>
-</table>
-
-#### I'm also into mobile dev, here are some of my native projects for mobile devices:
-
-<table>
-  <thead>
-    <tr>
-      <th>
-        <a href="https://play.google.com/store/apps/details?id=com.VityaSchel.RollerRide">Roller-Ride</a>
-      </th>
-      <th>
-        <a href="https://play.google.com/store/apps/details?id=com.VityaSchel.GoStudyMashaSimulator">GoStudy Masha Simulator</a>
-      </th>
-      <th>
-        <a href="https://github.com/VityaSchel/mtproto-mobile">MTProto Mobile (opensource)</a>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="width: 33%">
-        <a href="https://play.google.com/store/apps/details?id=com.VityaSchel.RollerRide">
-          <img width="100%" alt="Roller-Ride" src="./assets/rollerride.png">
-        </a>
-      </td>
-      <td style="width: 33%">
-        <a href="https://play.google.com/store/apps/details?id=com.VityaSchel.GoStudyMashaSimulator">
-          <img width="100%" alt="GoStudy Masha Simulator" src="./assets/gostudy.png">
-        </a>
-      </td>
-      <td style="width: 33%">
-        <a href="https://github.com/VityaSchel/mtproto-mobile">
-          <img width="100%" alt="Mtproto Mobile" src="./assets/mtproto.png">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>Ads-free arcade mobile game I built with Unity when I was 13, published to Play Market by myself; a year later I also published another Unity game to Steam</td>
-      <td>Ads-free clicker mobile game built with Unity in 7 days as a protesting act for a czech language-studying school, that later refused to accept me as a student</td>
-      <td>In addition to web I also love bot-development, especially Telegram API's MTProto — that's why I built a raw mobile client for Telegram API with Expo and React Native</td>
-    </tr>
-  </tbody>
-</table>
-
-#### My other works:
-<table>
-  <thead>
-    <tr>
-      <th>Fun</th>
-      <th>Useful</th>
+      <th colspan="2">Reverse engineered & HTML scraping</th>
       <th>Other</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://vityaschel.github.io/panic-button/"><img src="https://user-images.githubusercontent.com/59040542/113713982-fae06d80-96f8-11eb-96fc-db85517df744.png" height="15px"/> Panic Button (literally)</a></td>
-      <td><a href="https://github.com/VityaSchel/telegram-channel-mirror-mtproto">telegram-channel-mirror-mtproto</a></td>
-      <td><a href="http://navalnyarrested.utidteam.com/"><img src="https://user-images.githubusercontent.com/59040542/113713981-fae06d80-96f8-11eb-9b94-2b8026aaf34a.png" height="15px"/> Is Navalny arrested right now?</a></td>
+      <td><a href="https://github.com/VityaSchel/armenia.blsspainglobal.com">BLS Global Visa Center status checker</a></td>
+      <td><a href="https://github.com/VityaSchel/q-midpass-ru-autoconfirm">Passport Issuing Gov. status checker</a></td>
+      <td><a href="https://github.com/VityaSchel/s-otk-js">My local city's transport system API</a></td>
     </tr>
     <tr>
-      <td><a href="https://wikipedia.utidteam.com/"><img src="https://user-images.githubusercontent.com/59040542/113714003-fddb5e00-96f8-11eb-8b1d-6d00c05d9cad.png" height="15px"/> Wikipedia speedrun (browser-game)</a></td>
-      <td><a href="https://github.com/VityaSchel/mafiaonline.js">Mafiaonline.js</a></td>
-      <td><a href="https://github.com/VityaSchel/the-archive"><img src="https://raw.githubusercontent.com/VityaSchel/the-archive/71174727424d277fc6fd60c232ab40ffbd58c1ec/public/favicon-16x16.png" /> The Archive</a></td>
+      <td><a href="https://github.com/VityaSchel/kspguti-schedule">Parser of my college's website and a better UI for it</a></td>
+      <td><a href="https://github.com/VityaSchel/my.telegram.org-api-wrapper">Telegram's account settings websites API</a></td>
+      <td><a href="https://github.com/VityaSchel/asurso">My school's digital assessment diary parser</a></td>
     </tr>
     <tr>
-      <td><a href="https://utidteam.com/gostudy/"><img src="https://user-images.githubusercontent.com/59040542/121818547-e68c9400-cc98-11eb-8da9-a4fe69b9784e.png" height="15px"/> Czech Student Living Costs Calculator</a></td>
-      <td><a href="https://github.com/VityaSchel/reuploader"><img src="https://user-images.githubusercontent.com/59040542/142717934-0f3dd7f2-853f-49fa-b601-5a1661aa56f1.png" height="15px"/> YouTube reuploader</a></td>
-      <td><a href="https://github.com/VityaSchel/goodmorning-bot"><img src="https://user-images.githubusercontent.com/59040542/134208883-ee628b8b-4f65-41ae-b0d9-9a85d2f3b2c6.png" height="15px"/> Good Morning Bot</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://utidteam.com/FITvsFEL/"><img src="https://user-images.githubusercontent.com/59040542/121818531-d70d4b00-cc98-11eb-8fab-81e0981448a9.png" height="15px"/> ČVUT: FIT vs FEL</a></td>
-      <td><a href="https://github.com/VityaSchel/private-repo-cloner">private-repo-cloner</a></td>
-      <td><a href="https://github.com/VityaSchel/ruscript"><img src="https://user-images.githubusercontent.com/59040542/113713991-fcaa3100-96f8-11eb-85be-8f5e03c8cb15.png" height="15px"/> Ruscript — programming language</a></td>
+      <td><a href="httpshttps://github.com/VityaSchel/batumi.bike">batumi.bike — safe bike roads in my city using OSM</td>
+      <td><a href="https://navalnyarrested.utidteam.com/">Is Alexey Navalny arrested right now?</a></td>
+      <td><a href="https://github.com/VityaSchel/reddit-request-statistics">Research: Reddit's subreddit adoption statistics</td>
     </tr>
   </tbody>
 </table>
@@ -267,7 +106,7 @@ Session Bots Directory is a place to discover bots created by Session messenger 
 </p>
 
 
-#### My NPM Packages for developers:
+### My NPM Packages for developers:
 Sorted from best to worst
 | Name                                                                                 | Description                                                                                                                                                   | Usefulness<sup>1</sup> | Effort<sup>1</sup> | Release date |
 | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ------------------ | ------------ |
@@ -386,7 +225,7 @@ Sorted from best to worst
   
   > Q: Can I offer you a full-time job or discuss a one-time project?
   >
-  > A: Talk to [me in Telegram](https://hloth.dev/tg). I usually respond within minutes during work hours (2 PM - 7 PM Moscow time, Mon-Fri), but also I have [auto-responder](https://github.com/VityaSchel/hloth-telegram-greeting).
+  > A: Talk to [me in Telegram](https://hloth.dev/tg).
   
   </dd>
   <dd><hr></hr></dd>
@@ -404,13 +243,11 @@ Sorted from best to worst
 I also commited my work to the Bad Apple community by playing it on lolzteam user's nicknames: [https://github.com/VityaSchel/bad-apple](https://github.com/VityaSchel/bad-apple)
 
 #### Reach me:
-- Call me at `8 9019 404 69 8`
 - [hi@hloth.dev](mailto:hi@hloth.dev)
-- [@hlothdev](https://t.me/hlothdev) in Telegram ([auto-responder](https://github.com/VityaSchel/hloth-telegram-greeting) works 24/7)
+- [@hlothdev](https://t.me/hlothdev) in Telegram *preferred over emails*
 - [Витя Чел](https://archive.hloth.dev/youtube) on YouTube ([archive](https://github.com/VityaSchel/the-archive) of banned channel)
 - [hloth](https://www.youtube.com/channel/UCBC2YLk3LKBSzTXtbadb-og/) on YouTube (new channel)
 - [@VityaCzech 🏳️‍🌈](https://instagram.com/vityaczech) in Instagram
 - [@VityaSchel](https://codewars.com/users/VityaSchel) on Codewars
 - [@VityaSchel](https://codepen.io/VityaSchel) on Codepen
 - [@VityaSchel](https://codesandbox.io/u/vityaschel) on Codesandbox
-- [Виктор Щелочков](https://vk.com/hloth) in VKontakte
