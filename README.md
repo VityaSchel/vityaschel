@@ -94,7 +94,7 @@ Explore ONS records in OXEN blockchain, filter by owner, lookup by partial text 
       <td><a href="https://github.com/VityaSchel/asurso">My school's digital assessment diary parser</a></td>
     </tr>
     <tr>
-      <td><a href="httpshttps://github.com/VityaSchel/batumi.bike">batumi.bike — safe bike roads in my city using OSM</td>
+      <td><a href="https://github.com/VityaSchel/batumi.bike">batumi.bike — safe bike roads in my city using OSM</td>
       <td><a href="https://navalnyarrested.utidteam.com/">Is Alexey Navalny arrested right now?</a></td>
       <td><a href="https://github.com/VityaSchel/reddit-request-statistics">Research: Reddit's subreddit adoption statistics</td>
     </tr>
