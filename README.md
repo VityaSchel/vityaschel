@@ -52,7 +52,7 @@ Explore ONS records in OXEN blockchain, filter by owner, lookup by partial text 
   <thead>
     <tr>
       <th>Mobile apps & macOS</th>
-      <th>Session-related</th>
+      <th>[Session](https://getsession.org/)-related</th>
       <th>Experimental</th>
     </tr>
   </thead>
@@ -244,10 +244,13 @@ I also commited my work to the Bad Apple community by playing it on lolzteam use
 
 #### Reach me:
 - [hi@hloth.dev](mailto:hi@hloth.dev)
-- [@hlothdev](https://t.me/hlothdev) in Telegram *preferred over emails*
+- [@hlothdev](https://t.me/hlothdev) in Telegram *(preferred over emails)*
+- My ONS in [Session](https://getsession.org/) is `hloth`
+
+#### My socials:
+- [@VityaCzech 🏳️‍🌈](https://instagram.com/vityaczech) in Instagram
 - [Витя Чел](https://archive.hloth.dev/youtube) on YouTube ([archive](https://github.com/VityaSchel/the-archive) of banned channel)
 - [hloth](https://www.youtube.com/channel/UCBC2YLk3LKBSzTXtbadb-og/) on YouTube (new channel)
-- [@VityaCzech 🏳️‍🌈](https://instagram.com/vityaczech) in Instagram
 - [@VityaSchel](https://codewars.com/users/VityaSchel) on Codewars
 - [@VityaSchel](https://codepen.io/VityaSchel) on Codepen
 - [@VityaSchel](https://codesandbox.io/u/vityaschel) on Codesandbox
