@@ -52,7 +52,7 @@ Explore ONS records in OXEN blockchain, filter by owner, lookup by partial text 
   <thead>
     <tr>
       <th>Mobile apps & macOS</th>
-      <th>[Session](https://getsession.org/)-related</th>
+      <th><a href="https://getsession.org/">Session</a>-related</th>
       <th>Experimental</th>
     </tr>
   </thead>
