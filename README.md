@@ -19,7 +19,7 @@
 - 🌱  I’m against Russian-Ukrainian war, instead of war I’m making love
 - 🤔  I’m looking for a remote full-time job, expecting >=100k$/year, [here is my resume](https://cv.hloth.dev)
 
-✨ **I have over 180 repositories on GitHub, 4 years of Freelance experience and always write consistent quality future-prood code for maintenance and scalability — [hire me](https://t.me/hlothdev)!** ✨
+✨ **I have over 210 repositories on GitHub, 4 years of Freelance experience and always write consistent quality future-prood code for maintenance and scalability — [hire me](https://t.me/hlothdev)!** ✨
 
 
 <details>
