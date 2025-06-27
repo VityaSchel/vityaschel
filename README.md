@@ -17,7 +17,7 @@
 
 - 🔭  I’m in love with my [bf](https://github.com/devio10)
 - 🌱  I’m against Russian-Ukrainian war, instead of war I’m making love
-- 🤔  I’m looking for a remote full-time job, expecting >=100k$/year, [here is my resume](https://cv.hloth.dev)
+- 🤔  I’m looking for a remote full-time job, expecting >=150k$/year, [here is my resume](https://cv.hloth.dev)
 
 ✨ **I have over 210 repositories on GitHub, 4 years of Freelance experience and always write consistent quality future-prood code for maintenance and scalability — [hire me](https://t.me/hlothdev)!** ✨
 
@@ -26,9 +26,19 @@
   <summary><b>⚠️ All my commits are signed, reveal to learn how to prove the commit was made by me</b></summary>
   <br />
   
-  I'm signing all my commits with a GPG key and have GitHub's vigilant mode enabled.
-  
-  Starting from 17 July 2022, 13:15 UTC **I'm using GPG key to sign all my commits here and on @hloth account.** Trust only commits with "Verified" badge from me. Also check signature of verified commit, it must be `A7EA9B54F67F9685` (earlier `01162BC86DE54C7A`) or `62036A0EB54FB7AF` if I commit from Windows — for this account and `04255EC8D29C0AAF` (earlier `DEE0F7C423D3C578`) for hloth.
+  I'm signing all my commits with [my PGP key](https://hloth.dev/pgp) (that you can verify on Ubuntu and OpenPGP keyservers or using WKD by querying my email address: `hi@hloth.dev`) and have GitHub's vigilant mode enabled. Trust only commits with "Verified" badge from me.
+
+  Below are key IDs you can find by clicking on the "Verified" badge on any individual commit.
+
+  On this account (@VityaSchel):
+  - From 17 June 2025, 18:42 UTC: `299E9A450132A28C` (my main EdDSA PGP key)
+  - From 2023 to 17 June 2025, 18:42 UTC: `A7EA9B54F67F9685`
+  - From 17 July 2022, 13:15 UTC to 2023: `01162BC86DE54C7A`
+  - From 2022 to 2024 when I commit from Windows: `62036A0EB54FB7AF`
+
+  On alt account (@hloth):
+  - From 2023: `04255EC8D29C0AAF`
+  - From 2022 to 2023: `DEE0F7C423D3C578`
 
 </details>
 
