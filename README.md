@@ -136,8 +136,6 @@ Sorted from best to worst
 
 <br></br>
 
-<details>
-
 I also commited my work to the Bad Apple community by playing it on lolzteam user's nicknames: [https://github.com/VityaSchel/bad-apple](https://github.com/VityaSchel/bad-apple)
 
 #### Reach me (in order of preference):
