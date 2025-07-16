@@ -17,9 +17,9 @@
 
 - 🔭  I’m in love with my [bf](https://github.com/devio10)
 - 🌱  I’m against Russian-Ukrainian war, instead of war I’m making love
-- 🤔  I’m looking for a remote full-time job, expecting >=150k$/year, [here is my resume](https://cv.hloth.dev)
+- 🤔  I’m looking for a remote full-time job in EU, expecting >=100k$/year, [here is my resume](https://cv.hloth.dev)
 
-✨ **I have over 210 repositories on GitHub, 4 years of Freelance experience and always write consistent quality future-prood code for maintenance and scalability — [hire me](https://t.me/hlothdev)!** ✨
+✨ **I have over 210 repositories on GitHub, 4 years of Freelance experience and always write consistent quality future-prood code for maintenance and scalability — [hire me](mailto:hi@hloth.dev)!** ✨
 
 
 <details>
@@ -44,17 +44,24 @@
 
 ## Some of my projects:
 
-### [Moreofme — one link to to share what makes you unique](https://moreof.me)
+### [Moreofme — one link to to share what makes you unique](https://blog.hloth.dev/blog/moreofme)
 
-[![Moreofme screenshot](https://github.com/user-attachments/assets/91597e69-86bd-499d-8a09-49a2b82ea98f)](https://moreof.me)
+![Moreofme screenshot](https://github.com/user-attachments/assets/91597e69-86bd-499d-8a09-49a2b82ea98f)
 
-This is my first and biggest project in Svelte and now I prefer it over React. I also learned PostgreSQL in the 4 months that we were building this project and now prefer it over MongoDB. You can read more tech stuff in [my blog article](https://blog.hloth.dev/blog/moreofme).
+My biggest freelance project recently, built with SvelteKit and Svelte 5. I also learned PostgreSQL in the 4 months that we were building this project and now prefer it over MongoDB.
 
-### [Open Oxen Name System registry](https://ons.session.community)
+### [been-foss](https://github.com/VityaSchel/been-foss)
 
-[![image](https://github.com/VityaSchel/vityaschel/assets/59040542/02f48873-e480-42e5-8f72-06b403e80802)](https://ons.session.community/)
+<img width="3022" height="1530" alt="image" src="https://github.com/user-attachments/assets/5dc80cdd-d671-4a6b-b559-a167e35646c3" />
 
-Explore ONS records in OXEN blockchain, filter by owner, lookup by partial text query for unhashed names, view estimated money spent on all records by specified owner. Works offline, mobile-optimized. Uses WASM for hashing and multithreading, Cache API, next-i18next, next-pwa, Tailwind, Redux-toolkit. Has free API.
+Free open source alternative to ad and trackers cluttered "been". It's also much nicer ;) It has no ads, no trackers whatsover and it's static so maybe I'll add offline support someday. Built with Svelte 5.
+
+### [Lufin](https://github.com/VityaSchel/lufin)
+
+<img width="2995" height="1517" alt="lufin-screenshot-1" src="https://github.com/user-attachments/assets/ee594d63-1493-4542-a3f4-4a6343210189" />
+<img width="2995" height="1517" alt="lufin-screenshot-2" src="https://github.com/user-attachments/assets/dbe69d63-c920-45ee-8ae5-6665143c6d5e" />
+
+Lufin (Let’s Upload that File—Next) is a modern alternative to lufi. S3 storage support, rich client-side preview, translated to 26 languages, optional end-to-end encryption, auto metadata stripping, password protection, client-side image compression and more! Written with React and Next.js in 2023.
 
 ### Other stuff
 
