@@ -141,7 +141,7 @@ I also commited my work to the Bad Apple community by playing it on lolzteam use
 #### Reach me (in order of preference):
 - [@hloth:hloth.dev in Matrix](https://matrix.to/#/@hloth:hloth.dev)
 - [hi@hloth.dev via email](mailto:hi@hloth.dev)
-- [+34 600936082](tel:+34600936082)
+- +34 600936082
 - [@hlothdev in Telegram](https://t.me/hlothdev) (*slower response time*)
 
 #### My socials:
