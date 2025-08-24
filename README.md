@@ -7,7 +7,7 @@
     <a href="https://cv.hloth.dev/">Resume / CV</a> • 
     <a href="https://blog.hloth.dev">Blog</a> • 
     <a href="https://www.upwork.com/freelancers/~01a1f59e7a4697be89">Upwork profile</a> • 
-    <a href="#reach-me">Contacts</a>
+    <a href="#reach-me-in-order-of-preference">Contacts</a>
   </samp>
 </p>
 
@@ -147,5 +147,4 @@ I also commited my work to the Bad Apple community by playing it on lolzteam use
 #### My socials:
 - [vityaczech in Instagram](https://instagram.com/vityaczech)
 - [hloth in Linkedin](https://www.linkedin.com/in/hloth)
-- [hloth on YouTube](https://www.youtube.com/channel/UCBC2YLk3LKBSzTXtbadb-og/)
 - [VityaSchel on Codewars](https://codewars.com/users/VityaSchel)
