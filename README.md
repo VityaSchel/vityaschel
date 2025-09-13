@@ -15,18 +15,19 @@
 
 ### Viktor Shchelochkov (@hloth)
 
-- 🔭  I’m in love with my [bf](https://github.com/devio10)
-- 🌱  I’m against Russian-Ukrainian war, instead of war I’m making love
-- 🤔  I’m looking for a remote full-time job in EU, expecting >=100k$/year, [here is my resume](https://cv.hloth.dev)
+- 🏳️‍🌈 I’m in love with my [boyfriend](https://github.com/devio10)
+- 🌱 I’m on Ukrainian side in Russian war against Ukrain. Make love, not war.
+- 🤔 I’m looking for a full-time job in Spain, expecting >=100k$/year pre-tax or >=50k$/year **post-tax**, [here is my resume & CV](https://cv.hloth.dev)
 
-✨ **I have over 210 repositories on GitHub, 4 years of Freelance experience and always write consistent quality future-prood code for maintenance and scalability — [hire me](mailto:hi@hloth.dev)!** ✨
+✨ **I have over 10 years of development experience, 5 years of freelancing & building commercial projects and always write consistent quality future-prood code for maintenance and scalability — [hire me](mailto:hi@hloth.dev)!** ✨
 
+<img src="./forgejo.svg" alt="Forgejo logo" align="left" style="margin-right: 10px; margin-top: 10px;" /> I'm in process of migrating to my own self-hosted Git server [git.hloth.dev](https://git.hloth.dev) powered by Forgejo (fork of Gitea). <br />[Read more](https://github.com/VityaSchel/vityaschel/discussions/4) • [Visit my profile on git.hloth.dev](https://git.hloth.dev/hloth)
 
 <details>
   <summary><b>⚠️ All my commits are signed, reveal to learn how to prove the commit was made by me</b></summary>
   <br />
   
-  I'm signing all my commits with [my PGP key](https://hloth.dev/pgp) (that you can verify on Ubuntu and OpenPGP keyservers or using WKD by querying my email address: `hi@hloth.dev`) and have GitHub's vigilant mode enabled. Trust only commits with "Verified" badge from me.
+  I'm signing all my commits with [my PGP key](https://hloth.dev/pgp) (you can verify it on Ubuntu and OpenPGP keyservers or using WKD by querying my email address: `hi@hloth.dev`) and have GitHub's vigilant mode enabled. Trust only commits with "Verified" badge from me.
 
   Below are key IDs you can find by clicking on the "Verified" badge on any individual commit.
 
