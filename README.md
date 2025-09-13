@@ -1,4 +1,4 @@
-![ёкарный бабай](./banner.svg)
+![ёкарный бабай](./assets/banner.svg)
 
 <p align="center">
   <samp>
@@ -15,54 +15,54 @@
 
 ### Viktor Shchelochkov (@hloth)
 
-- 🏳️‍🌈 I’m in love with my [boyfriend](https://github.com/devio10)
-- 🌱 I’m on Ukrainian side in Russian war against Ukrain. Make love, not war.
-- 🤔 I’m looking for a full-time job in Spain, expecting >=100k$/year pre-tax or >=50k$/year **post-tax**, [here is my resume & CV](https://cv.hloth.dev)
+- 🏳️‍🌈	I’m in love with my [boyfriend](https://github.com/devio10)
+- 🌱	I’m on Ukrainian side in Russian war against Ukraine. Make love, not war.
+- 🤔	I’m looking for a full-time job in Spain, expecting >=100k$/year pre-tax or >=50k$/year **post-tax**, [here is my resume & CV](https://cv.hloth.dev)
 
-✨ **I have over 10 years of development experience, 5 years of freelancing & building commercial projects and always write consistent quality future-prood code for maintenance and scalability — [hire me](mailto:hi@hloth.dev)!** ✨
+✨ **I have over 10 years of development experience, 5 years of freelancing & building commercial projects, can design maintainable, scalable and future-proof systems and always write consistent high quality code — [hire me](mailto:hi@hloth.dev)!** ✨
 
-<img src="./forgejo.svg" alt="Forgejo logo" align="left" style="margin-right: 10px; margin-top: 10px;" /> I'm in process of migrating to my own self-hosted Git server [git.hloth.dev](https://git.hloth.dev) powered by Forgejo (fork of Gitea). <br />[Read more](https://github.com/VityaSchel/vityaschel/discussions/4) • [Visit my profile on git.hloth.dev](https://git.hloth.dev/hloth)
+<img src="./assets/forgejo.svg" alt="Forgejo logo" align="left" style="margin-right: 10px; margin-top: 10px;" /> I'm in process of migrating to my own self-hosted Git server [git.hloth.dev](https://git.hloth.dev) powered by Forgejo (fork of Gitea). <br />[Read more](https://github.com/VityaSchel/vityaschel/discussions/4) • [Visit my profile on git.hloth.dev](https://git.hloth.dev/hloth)
 
 <details>
   <summary><b>⚠️ All my commits are signed, reveal to learn how to prove the commit was made by me</b></summary>
   <br />
   
-  I'm signing all my commits with [my PGP key](https://hloth.dev/pgp) (you can verify it on Ubuntu and OpenPGP keyservers or using WKD by querying my email address: `hi@hloth.dev`) and have GitHub's vigilant mode enabled. Trust only commits with "Verified" badge from me.
+  I'm signing all my commits with [my PGP key](https://hloth.dev/pgp) (you can verify it on Ubuntu and OpenPGP keyservers or using WKD by querying my email address: `hi@hloth.dev`) and have vigilant mode enabled on GitHub. Trust only commits with "Verified" badge from me.
 
   Below are key IDs you can find by clicking on the "Verified" badge on any individual commit.
 
-  On this account (@VityaSchel):
+  On [hloth git.hloth.dev account](https://git.hloth.dev/hloth) and [VityaSchel GitHub account](https://github.com/VityaSchel):
   - From 17 June 2025, 18:42 UTC: `299E9A450132A28C` (my main EdDSA PGP key)
   - From 2023 to 17 June 2025, 18:42 UTC: `A7EA9B54F67F9685`
   - From 17 July 2022, 13:15 UTC to 2023: `01162BC86DE54C7A`
   - From 2022 to 2024 when I commit from Windows: `62036A0EB54FB7AF`
 
-  On alt account (@hloth):
+  On [hloth GitHub account](https://github.com/hloth):
   - From 2023: `04255EC8D29C0AAF`
   - From 2022 to 2023: `DEE0F7C423D3C578`
 
 </details>
 
-## Some of my projects:
+## Some of my projects
+
+### [Lufin](https://github.com/VityaSchel/lufin)
+
+![Lufin screenshot 1](./assets/lufin-1.png)
+![Lufin screenshot 2](./assets/lufin-2.png)
+
+Lufin (Let’s Upload that File—Next) is a modern alternative to lufi. S3 storage support, rich client-side preview, translated to 26 languages, optional end-to-end encryption, auto metadata stripping, password protection, client-side image compression and more! Written with React and Next.js in 2023.
 
 ### [Moreofme — one link to to share what makes you unique](https://blog.hloth.dev/blog/moreofme)
 
-![Moreofme screenshot](https://github.com/user-attachments/assets/91597e69-86bd-499d-8a09-49a2b82ea98f)
+![Moreofme screenshot](./assets/moreofme.png)
 
 My biggest freelance project recently, built with SvelteKit and Svelte 5. I also learned PostgreSQL in the 4 months that we were building this project and now prefer it over MongoDB.
 
 ### [been-foss](https://github.com/VityaSchel/been-foss)
 
-<img width="3022" height="1530" alt="image" src="https://github.com/user-attachments/assets/5dc80cdd-d671-4a6b-b559-a167e35646c3" />
+![Moreofme screenshot](./assets/been-foss.png)
 
 Free open source alternative to ad and trackers cluttered "been". It's also much nicer ;) It has no ads, no trackers whatsover and it's static so maybe I'll add offline support someday. Built with Svelte 5.
-
-### [Lufin](https://github.com/VityaSchel/lufin)
-
-<img width="2995" height="1517" alt="lufin-screenshot-1" src="https://github.com/user-attachments/assets/ee594d63-1493-4542-a3f4-4a6343210189" />
-<img width="2995" height="1517" alt="lufin-screenshot-2" src="https://github.com/user-attachments/assets/dbe69d63-c920-45ee-8ae5-6665143c6d5e" />
-
-Lufin (Let’s Upload that File—Next) is a modern alternative to lufi. S3 storage support, rich client-side preview, translated to 26 languages, optional end-to-end encryption, auto metadata stripping, password protection, client-side image compression and more! Written with React and Next.js in 2023.
 
 ### Other stuff
 
@@ -120,19 +120,20 @@ Lufin (Let’s Upload that File—Next) is a modern alternative to lufi. S3 stor
 </table>
 
 
-### My NPM Packages for developers:
-Sorted from best to worst
-| Name                                                                                 | Description                                                                               |
-| ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- |
-| [byom](https://npmjs.com/package/byom)                                               | Set of pure JavaScript modules to create an end-to-end post-quantum encrypted messenger   |
-| [@session.js](https://www.npmjs.com/org/session.js)                                  | JavaScript library for programmatic use of [Session messenger](https://getsession.org)    |
-| [lgbt](https://npmjs.com/package/lgbt)                                               | Node.js utilities to LGBTize everything                                                   |
-| [my.telegram.org-api-wrapper](https://npmjs.com/package/my.telegram.org-api-wrapper) | Полностью типизированная библиотека с оберткой для my.telegram.org                        |
-| [replica-player](https://npmjs.com/package/replica-player)                           | Video-player for Svelte that is identical to YouTube's player                             |
-| [hornet.com](https://npmjs.com/package/hornet.com)                                   | Unofficial browser API wrapper for queer social network hornet.com                        |
+### My NPM packages for developers
+
+| Name                                                       | Description                                                                             |
+| ---------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| [pow-reaction](https://npmjs.com/package/pow-reaction)     | Proof-of-work reactions for your blogs                                                  |
+| [byom](https://npmjs.com/package/byom)                     | Set of pure JavaScript modules to create an end-to-end post-quantum encrypted messenger |
+| [@session.js](https://www.npmjs.com/org/session.js)        | JavaScript library for programmatic use of [Session messenger](https://getsession.org)  |
+| [lgbt](https://npmjs.com/package/lgbt)                     | Node.js utilities to LGBTize everything                                                 |
+| [replica-player](https://npmjs.com/package/replica-player) | Video-player for Svelte that is identical to YouTube's player (WIP)                     |
+| [hornet.com](https://npmjs.com/package/hornet.com)         | Browser API wrapper for queer social network hornet.com                                 |
+|                                                            |                                                                                         |
 
 <p align="center">
-<a href="https://npmjs.com/~vityaschel">Browse all 25 packages published by me to NPM</a>
+  <a href="https://npmjs.com/~vityaschel">Browse all</a>
 </p>
 
 <br></br>
