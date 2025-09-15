@@ -58,7 +58,7 @@ Lufin (Let’s Upload that File—Next) is a modern alternative to lufi. S3 stor
 
 My biggest freelance project recently, built with SvelteKit and Svelte 5. I also learned PostgreSQL in the 4 months that we were building this project and now prefer it over MongoDB.
 
-### [been-foss](https://github.com/VityaSchel/been-foss)
+### [been-foss](https://git.hloth.dev/hloth/been-foss)
 
 ![Moreofme screenshot](./assets/been-foss.png)
 
@@ -76,19 +76,19 @@ Free open source alternative to ad and trackers cluttered "been". It's also much
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/VityaSchel/samsung-pinger">Samsung Pinger widget for macOS</a></td>
+      <td><a href="https://git.hloth.dev/hloth/samsung-pinger">Samsung Pinger widget for macOS</a></td>
       <td><a href="https://github.com/VityaSchel/byom">Build Your Own e2ee post-quantum Messenger developer toolkit</a></td>
-      <td><a href="https://github.com/VityaSchel/ps4-app-merge-pkgs">PS4 homebrew app to merge .pkgs in C++</a></td>
+      <td><a href="https://git.hloth.dev/hloth/ps4-app-merge-pkgs">PS4 homebrew app to merge .pkgs in C++</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/VityaSchel/mental-health-quiz">Mentral Health Quiz</a></td>
-      <td><a href="https://github.com/VityaSchel/prankbot">Prankbot website</a></td>
-      <td><a href="https://github.com/VityaSchel/ketoplan-diet">Keto-plan diet Quiz</a></td>
+      <td><a href="https://git.hloth.dev/hloth/mental-health-quiz">Mentral Health Quiz</a></td>
+      <td><a href="https://git.hloth.dev/hloth/prankbot">Prankbot website</a></td>
+      <td><a href="https://git.hloth.dev/hloth/ketoplan-diet">Keto-plan diet Quiz</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/VityaSchel/meds-reminder">WearOS reminder app for taking meds</td>
-      <td><a href="https://github.com/VityaSchel/session-id-generator">Vanity Session ID generator (website and CLI)</a></td>
-      <td><a href="https://github.com/VityaSchel/vfs-status-bot">VFS visa center checking bot</td>
+      <td><a href="https://git.hloth.dev/hloth/meds-reminder">WearOS reminder app for taking meds</td>
+      <td><a href="https://git.hloth.dev/hloth/session-id-generator">Vanity Session ID generator (website and CLI)</a></td>
+      <td><a href="https://git.hloth.dev/hloth/vfs-status-bot">VFS visa center checking bot</td>
     </tr>
   </tbody>
 </table>
@@ -102,19 +102,19 @@ Free open source alternative to ad and trackers cluttered "been". It's also much
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/VityaSchel/armenia.blsspainglobal.com">BLS Global Visa Center status checker</a></td>
+      <td><a href="https://git.hloth.dev/hloth/armenia.blsspainglobal.com">BLS Global Visa Center status checker</a></td>
       <td><a href="https://github.com/VityaSchel/q-midpass-ru-autoconfirm">Passport Issuing Gov. status checker</a></td>
-      <td><a href="https://github.com/VityaSchel/s-otk-js">My local city's transport system API</a></td>
+      <td><a href="https://git.hloth.dev/hloth/s-otk-js">My local city's transport system API</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/VityaSchel/kspguti-schedule">Parser of my college's website and a better UI for it</a></td>
-      <td><a href="https://github.com/VityaSchel/my.telegram.org-api-wrapper">Telegram's account settings websites API</a></td>
-      <td><a href="https://github.com/VityaSchel/asurso">My school's digital assessment diary parser</a></td>
+      <td><a href="https://git.hloth.dev/hloth/kspguti-schedule">Parser of my college's website and a better UI for it</a></td>
+      <td><a href="https://git.hloth.dev/hloth/my.telegram.org-api-wrapper">Telegram's account settings websites API</a></td>
+      <td><a href="https://git.hloth.dev/hloth/asurso">My school's digital assessment diary parser</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/VityaSchel/batumi.bike">batumi.bike — safe bike roads in my city using OSM</td>
-      <td><a href="https://navalnyarrested.utidteam.com/">Is Alexey Navalny arrested right now?</a></td>
-      <td><a href="https://github.com/VityaSchel/reddit-request-statistics">Research: Reddit's subreddit adoption statistics</td>
+      <td><a href="https://git.hloth.dev/hloth/batumi.bike">batumi.bike — safe bike roads in my city using OSM</td>
+      <td><a href="https://git.hloth.dev/hloth/navalnyarrested">Is Alexey Navalny arrested right now?</a></td>
+      <td><a href="https://git.hloth.dev/hloth/reddit-request-statistics">Research: Reddit's subreddit adoption statistics</td>
     </tr>
   </tbody>
 </table>
@@ -138,7 +138,7 @@ Free open source alternative to ad and trackers cluttered "been". It's also much
 
 <br></br>
 
-I also commited my work to the Bad Apple community by playing it on lolzteam user's nicknames: [https://github.com/VityaSchel/bad-apple](https://github.com/VityaSchel/bad-apple)
+I also commited my work to the Bad Apple community by playing it on lolzteam user's nicknames: [https://git.hloth.dev/hloth/bad-apple](https://git.hloth.dev/hloth/bad-apple)
 
 #### Reach me (in order of preference):
 - [@hloth:hloth.dev in Matrix](https://matrix.to/#/@hloth:hloth.dev)
