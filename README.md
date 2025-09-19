@@ -43,7 +43,7 @@
 
 </details>
 
-<img src="./assets/mit-license.png" height="70" style="float: left" /> ⚖ All my projects are licensed under MIT (except forks and derivative works based on GPL-licensed projects).<br />Learn more: <a href="https://mit.hloth.dev/" target="_blank" rel="noopener noreferrer">mit.hloth.dev</a>.<br />Submit a complaint <img src="./assets/gpl-monster.webp" width="20" />: <a href="https://change.mit.hloth.dev/" target="_blank" rel="noopener noreferrer">change.mit.hloth.dev</a>.
+<img src="./assets/mit-license.png" height="70" align="left" /> ⚖ All my projects are licensed under MIT (except forks and derivative works based on GPL-licensed projects).<br />Learn more: <a href="https://mit.hloth.dev/" target="_blank" rel="noopener noreferrer">mit.hloth.dev</a>.<br />Submit a complaint <img src="./assets/gpl-monster.webp" width="20" />: <a href="https://change.mit.hloth.dev/" target="_blank" rel="noopener noreferrer">change.mit.hloth.dev</a>.
 
 ## Some of my projects
 
