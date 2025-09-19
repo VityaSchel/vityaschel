@@ -21,10 +21,10 @@
 
 ✨ **I have over 10 years of development experience, 5 years of freelancing & building commercial projects, can design maintainable, scalable and future-proof systems and always write consistent high quality code — [hire me](mailto:hi@hloth.dev)!** ✨
 
-<img src="./assets/forgejo.svg" alt="Forgejo logo" align="left" style="margin-right: 10px; margin-top: 10px;" /> I'm in process of migrating to my own self-hosted Git server [git.hloth.dev](https://git.hloth.dev) powered by Forgejo (fork of Gitea). <br />[Read more](https://github.com/VityaSchel/vityaschel/discussions/4) • [Visit my profile on git.hloth.dev](https://git.hloth.dev/hloth)
+<img src="./assets/forgejo.svg" alt="Forgejo logo" align="left" style="margin-right: 10px; margin-top: 10px;" /> I'm now developing my projects on my own self-hosted Git server [git.hloth.dev](https://git.hloth.dev) powered by Forgejo (fork of Gitea). <br />[Read more](https://github.com/VityaSchel/vityaschel/discussions/4) • [Visit my profile on git.hloth.dev](https://git.hloth.dev/hloth)
 
 <details>
-  <summary><b>⚠️ All my commits are signed, reveal to learn how to prove the commit was made by me</b></summary>
+  <summary><b>⚠️ All my commits are signed, reveal to learn how to check if the commit was signed by me</b></summary>
   <br />
   
   I'm signing all my commits with [my PGP key](https://hloth.dev/pgp) (you can verify it on Ubuntu and OpenPGP keyservers or using WKD by querying my email address: `hi@hloth.dev`) and have vigilant mode enabled on GitHub. Trust only commits with "Verified" badge from me.
@@ -42,6 +42,8 @@
   - From 2022 to 2023: `DEE0F7C423D3C578`
 
 </details>
+
+<img src="./assets/mit-license.png" height="70" style="float: left" /> ⚖ All my projects are licensed under MIT (except forks and derivative works based on GPL-licensed projects).<br />Learn more: <a href="https://mit.hloth.dev/" target="_blank" rel="noopener noreferrer">mit.hloth.dev</a>.<br />Submit a complaint <img src="./assets/gpl-monster.webp" width="20" />: <a href="https://change.mit.hloth.dev/" target="_blank" rel="noopener noreferrer">change.mit.hloth.dev</a>.
 
 ## Some of my projects
 
