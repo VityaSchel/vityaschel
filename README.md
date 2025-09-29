@@ -19,7 +19,7 @@
 - 🌱	I’m on Ukrainian side in Russian war against Ukraine. Make love, not war.
 - 🤔	I’m looking for a full-time job in Spain, expecting >=100k$/year pre-tax or >=50k$/year **post-tax**, [here is my resume & CV](https://cv.hloth.dev)
 
-✨ **I have over 10 years of development experience, 5 years of freelancing & building commercial projects, can design maintainable, scalable and future-proof systems and always write consistent high quality code — [hire me](mailto:hi@hloth.dev)!** ✨
+✨ **I have over 5 years of experience building commercial projects, can design maintainable, scalable and future-proof systems and always write consistent high quality code — [hire me](mailto:hi@hloth.dev)!** ✨
 
 <img src="./assets/forgejo.svg" alt="Forgejo logo" align="left" style="margin-right: 10px; margin-top: 10px;" /> I'm now developing my projects on my own self-hosted Git server [git.hloth.dev](https://git.hloth.dev) powered by Forgejo (fork of Gitea). <br />[Read more](https://github.com/VityaSchel/vityaschel/discussions/4) • [Visit my profile on git.hloth.dev](https://git.hloth.dev/hloth)
 
