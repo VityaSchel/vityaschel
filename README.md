@@ -15,7 +15,7 @@
 
 ### Viktor Shchelochkov (@hloth)
 
-- 🏳️‍🌈	I’m in love with my [boyfriend](https://github.com/devio10)
+- 🏳️‍🌈	I’m [openly gay](https://instagram.com/hlothdev) and fight for LGBTQIA+ rights and representation
 - 🌱	I’m on Ukrainian side in Russian war against Ukraine. Make love, not war.
 - 🤔	I’m looking for a full-time job in Spain, expecting >=100k$/year pre-tax or >=50k$/year **post-tax**, [here is my resume & CV](https://cv.hloth.dev)
 
@@ -145,10 +145,10 @@ I also commited my work to the Bad Apple community by playing it on lolzteam use
 #### Reach me (in order of preference):
 - [@hloth:hloth.dev in Matrix](https://matrix.to/#/@hloth:hloth.dev)
 - [hi@hloth.dev via email](mailto:hi@hloth.dev)
+- [@hlothdev in Telegram](https://t.me/hlothdev)
 - +34 600936082
-- [@hlothdev in Telegram](https://t.me/hlothdev) (*slower response time*)
 
 #### My socials:
-- [vityaczech in Instagram](https://instagram.com/vityaczech)
+- [hlothdev in Instagram](https://instagram.com/hlothdev)
 - [hloth in Linkedin](https://www.linkedin.com/in/hloth)
 - [VityaSchel on Codewars](https://codewars.com/users/VityaSchel)
