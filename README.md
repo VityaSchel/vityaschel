@@ -215,7 +215,7 @@ More freelance projects without public repos: [Websites & projects at hloth.dev]
   <img width="88" height="31" alt="You like web buttons don't you?" src="./assets/88x31/buttonkisser.gif" />
 </a>
 <a href="about:blank">
-  <img width="88" height="31" alt=" " src="./assets/88x31/nothing.gif" />
+  <img width="88" height="31" alt="␀" src="./assets/88x31/nothing.gif" />
 </a>
 <a href="https://mit.hloth.dev/">
   <img width="88" height="31" alt="MIT licensed" src="./assets/88x31/mit-license.gif" />
