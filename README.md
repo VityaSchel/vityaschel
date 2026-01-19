@@ -95,128 +95,128 @@ More freelance projects without public repos: [Websites & projects at hloth.dev]
 
 
 <a href="https://matrix.to/#/@hloth:hloth.dev">
-  <img style="image-rendering:pixelated" width="88" height="31" alt="Message me in Matrix" src="./assets/88x31/matrix.gif" />
+  <img width="88" height="31" alt="Message me in Matrix" src="./assets/88x31/matrix.gif" />
 </a>
 <a href="https://bsky.app/profile/hloth.dev">
-  <img style="image-rendering:pixelated" width="88" height="31" alt="Bluesky" src="./assets/88x31/bluesky.gif" />
+  <img width="88" height="31" alt="Bluesky" src="./assets/88x31/bluesky.gif" />
 </a>
 <a href="https://t.me/hlothdev">
-  <img style="image-rendering:pixelated" width="88" height="31" alt="Chat with me in Telegram" src="./assets/88x31/telegram.gif" />
+  <img width="88" height="31" alt="Chat with me in Telegram" src="./assets/88x31/telegram.gif" />
 </a>
 <a href="https://hit.hloth.dev">
-  <img style="image-rendering:pixelated" width="88" height="31" alt="Hit me in Grindr!" src="./assets/88x31/grindr.gif" />
+  <img width="88" height="31" alt="Hit me in Grindr!" src="./assets/88x31/grindr.gif" />
 </a>
 <a href="https://bun.com/">
-  <img style="image-rendering:pixelated" width="88" height="31" alt="JavaScript" src="./assets/88x31/javascript.gif" />
+  <img width="88" height="31" alt="JavaScript" src="./assets/88x31/javascript.gif" />
 </a>
 <a href="https://duckduckgo.com/">
-  <img style="image-rendering:pixelated" width="88" height="31" alt="Duckduckgo" src="./assets/88x31/duckduckgo.gif" />
+  <img width="88" height="31" alt="Duckduckgo" src="./assets/88x31/duckduckgo.gif" />
 </a>
 <a href="https://ublockorigin.com/">
-  <img style="image-rendering:pixelated" width="88" height="31" alt="uBlock Origin" src="./assets/88x31/ublock-origin.gif" />
+  <img width="88" height="31" alt="uBlock Origin" src="./assets/88x31/ublock-origin.gif" />
 </a>
 <a href="https://astro.build/">
-  <img style="image-rendering:pixelated" width="88" height="31" alt="Astro" src="./assets/88x31/astro-build.gif" />
+  <img width="88" height="31" alt="Astro" src="./assets/88x31/astro-build.gif" />
 </a>
 <a href="https://flipperzero.one/">
-  <img style="image-rendering:pixelated" width="88" height="31" alt="Flipper Zero" src="./assets/88x31/flipper-zero.gif" />
+  <img width="88" height="31" alt="Flipper Zero" src="./assets/88x31/flipper-zero.gif" />
 </a>
 <a href="https://www.blender.org/">
-  <img style="image-rendering:pixelated" width="88" height="31" alt="Blender" src="./assets/88x31/blender.gif" />
+  <img width="88" height="31" alt="Blender" src="./assets/88x31/blender.gif" />
 </a>
 <a href="https://godotengine.org/">
-  <img style="image-rendering:pixelated" width="88" height="31" alt="Godot Game Engine" src="./assets/88x31/godot.gif" />
+  <img width="88" height="31" alt="Godot Game Engine" src="./assets/88x31/godot.gif" />
 </a>
 <a href="https://archlinux.org/">
-  <img style="image-rendering:pixelated" width="88" height="31" alt="Arch Linux" src="./assets/88x31/archlinux.gif" />
+  <img width="88" height="31" alt="Arch Linux" src="./assets/88x31/archlinux.gif" />
 </a>
 <a href="https://code.visualstudio.com/">
-  <img style="image-rendering:pixelated" width="88" height="31" alt="Visual Studio Code" src="./assets/88x31/visual-studio-code.gif" />
+  <img width="88" height="31" alt="Visual Studio Code" src="./assets/88x31/visual-studio-code.gif" />
 </a>
 <a href="https://www.torproject.org/">
-  <img style="image-rendering:pixelated" width="88" height="31" alt="Tor" src="./assets/88x31/tor.gif" />
+  <img width="88" height="31" alt="Tor" src="./assets/88x31/tor.gif" />
 </a>
 <a href="https://caddyserver.com/">
-  <img style="image-rendering:pixelated" width="88" height="31" alt="Caddy" src="./assets/88x31/caddy.gif" />
+  <img width="88" height="31" alt="Caddy" src="./assets/88x31/caddy.gif" />
 </a>
 <a href="https://github.com/dani-garcia/vaultwarden">
-  <img style="image-rendering:pixelated" width="88" height="31" alt="Bitwarden" src="./assets/88x31/bitwarden.gif" />
+  <img width="88" height="31" alt="Bitwarden" src="./assets/88x31/bitwarden.gif" />
 </a>
 <a href="https://www.firefox.com/">
-  <img style="image-rendering:pixelated" width="88" height="31" alt="Firefox" src="./assets/88x31/firefox.gif" />
+  <img width="88" height="31" alt="Firefox" src="./assets/88x31/firefox.gif" />
 </a>
 <a href="https://ffmpeg.org/">
-  <img style="image-rendering:pixelated" width="88" height="31" alt="FFmpeg" src="./assets/88x31/ffmpeg.gif" />
+  <img width="88" height="31" alt="FFmpeg" src="./assets/88x31/ffmpeg.gif" />
 </a>
 <a href="https://web.archive.org/web/20230723130959/https://samara.lgbt/">
-  <img style="image-rendering:pixelated" width="88" height="31" alt="This website is gay" src="./assets/88x31/this-website-is-gay.gif" />
+  <img width="88" height="31" alt="This website is gay" src="./assets/88x31/this-website-is-gay.gif" />
 </a>
 <a href="https://github.com/acidanthera/OpenCorePkg">
-  <img style="image-rendering:pixelated" width="88" height="31" alt="Made with Macintosh" src="./assets/88x31/macintosh.gif" />
+  <img width="88" height="31" alt="Made with Macintosh" src="./assets/88x31/macintosh.gif" />
 </a>
 <a href="https://www.hetzner.com/">
-  <img style="image-rendering:pixelated" width="88" height="31" alt="Hosted on Hetzner" src="./assets/88x31/hetzner.gif" />
+  <img width="88" height="31" alt="Hosted on Hetzner" src="./assets/88x31/hetzner.gif" />
 </a>
 <a href="https://myanimelist.net/stacks/13680">
-  <img style="image-rendering:pixelated" width="88" height="31" alt="Catboys" src="./assets/88x31/catboys.gif" />
+  <img width="88" height="31" alt="Catboys" src="./assets/88x31/catboys.gif" />
 </a>
 <a href="https://en.wikipedia.org/wiki/Eat_the_rich">
-  <img style="image-rendering:pixelated" width="88" height="31" alt="Eat the rich" src="./assets/88x31/eat-the-rich.gif" />
+  <img width="88" height="31" alt="Eat the rich" src="./assets/88x31/eat-the-rich.gif" />
 </a>
 <a href="https://en.wikipedia.org/wiki/Bucha_massacre">
-  <img style="image-rendering:pixelated" width="88" height="31" alt="Peace Now!" src="./assets/88x31/peace-now.gif" />
+  <img width="88" height="31" alt="Peace Now!" src="./assets/88x31/peace-now.gif" />
 </a>
 <a href="https://en.wikipedia.org/wiki/DeGoogle">
-  <img style="image-rendering:pixelated" width="88" height="31" alt="Fuck Google" src="./assets/88x31/fuck-google.gif" />
+  <img width="88" height="31" alt="Fuck Google" src="./assets/88x31/fuck-google.gif" />
 </a>
 <a href="https://www.techdirt.com/2024/01/31/microsoft-joins-in-on-the-screw-over-lgbtq-kids-party-by-supporting-kosa/">
-  <img style="image-rendering:pixelated" width="88" height="31" alt="Stop Microsoft" src="./assets/88x31/stop-microsoft.gif" />
+  <img width="88" height="31" alt="Stop Microsoft" src="./assets/88x31/stop-microsoft.gif" />
 </a>
 <a href="https://yesterweb.org/no-to-web3/">
-  <img style="image-rendering:pixelated" width="88" height="31" alt="No to WEB3" src="./assets/88x31/no-to-web3.gif" />
+  <img width="88" height="31" alt="No to WEB3" src="./assets/88x31/no-to-web3.gif" />
 </a>
 <a href="https://cadence.moe/blog/2024-10-05-created-by-a-human-badges">
-  <img style="image-rendering:pixelated" width="88" height="31" alt="Created by a human with a heart" src="./assets/88x31/created-by-a-human-with-a-heart.gif" />
+  <img width="88" height="31" alt="Created by a human with a heart" src="./assets/88x31/created-by-a-human-with-a-heart.gif" />
 </a>
 <a href="https://fediverse.party/en/fediverse/">
-  <img style="image-rendering:pixelated" width="88" height="31" alt="Fediverse" src="./assets/88x31/fediverse.gif" />
+  <img width="88" height="31" alt="Fediverse" src="./assets/88x31/fediverse.gif" />
 </a>
 <a href="https://archive.org">
-  <img style="image-rendering:pixelated" width="88" height="31" alt="Preserve history" src="./assets/88x31/archive-org.gif" />
+  <img width="88" height="31" alt="Preserve history" src="./assets/88x31/archive-org.gif" />
 </a>
 <a href="https://knowyourmeme.com/memes/you-should-kill-yourself-now">
-  <img style="image-rendering:pixelated" width="88" height="31" alt="Kill yourself now!" src="./assets/88x31/kill-yourself-now.gif" />
+  <img width="88" height="31" alt="Kill yourself now!" src="./assets/88x31/kill-yourself-now.gif" />
 </a>
 <a href="https://blog.hloth.dev/i-am-20#depression">
-  <img style="image-rendering:pixelated" width="88" height="31" alt="Kill me now" src="./assets/88x31/kill-me-now.gif" />
+  <img width="88" height="31" alt="Kill me now" src="./assets/88x31/kill-me-now.gif" />
 </a>
 <a href="https://www.ifixit.com/">
-  <img style="image-rendering:pixelated" width="88" height="31" alt="Right to repair" src="./assets/88x31/right2repair.gif" />
+  <img width="88" height="31" alt="Right to repair" src="./assets/88x31/right2repair.gif" />
 </a>
 <a href="https://en.wikipedia.org/wiki/ISO_8601">
-  <img style="image-rendering:pixelated" width="88" height="31" alt="ISO 8601 YYYY-MM-DD" src="./assets/88x31/iso8601.gif" />
+  <img width="88" height="31" alt="ISO 8601 YYYY-MM-DD" src="./assets/88x31/iso8601.gif" />
 </a>
 <a href="https://maps.app.goo.gl/fjW7EzS8yTmzYFrM6">
-  <img style="image-rendering:pixelated" width="88" height="31" alt="Milk Tea Now!" src="./assets/88x31/milktea.gif" />
+  <img width="88" height="31" alt="Milk Tea Now!" src="./assets/88x31/milktea.gif" />
 </a>
 <a href="https://scottgames.com">
-  <img style="image-rendering:pixelated" width="88" height="31" alt="ScottGames.com" src="./assets/88x31/scottgames.gif" />
+  <img width="88" height="31" alt="ScottGames.com" src="./assets/88x31/scottgames.gif" />
 </a>
 <a href="https://terraria.wiki.gg/">
-  <img style="image-rendering:pixelated" width="88" height="31" alt="Terraria" src="./assets/88x31/terraria.gif" />
+  <img width="88" height="31" alt="Terraria" src="./assets/88x31/terraria.gif" />
 </a>
 <a href="https://breezewiki.com/jerma-lore/wiki/Evil_Jerma">
-  <img style="image-rendering:pixelated" width="88" height="31" alt="Jerma985" src="./assets/88x31/jerma985.gif" />
+  <img width="88" height="31" alt="Jerma985" src="./assets/88x31/jerma985.gif" />
 </a>
 <a href="https://eightyeightthirty.one/">
-  <img style="image-rendering:pixelated" width="88" height="31" alt="eightyeightthirty.one" src="./assets/88x31/88x31.gif" />
+  <img width="88" height="31" alt="eightyeightthirty.one" src="./assets/88x31/88x31.gif" />
 </a>
 <a href="https://88x31.nl">
-  <img style="image-rendering:pixelated" width="88" height="31" alt="You like web buttons don't you?" src="./assets/88x31/buttonkisser.gif" />
+  <img width="88" height="31" alt="You like web buttons don't you?" src="./assets/88x31/buttonkisser.gif" />
 </a>
 <a href="about:blank">
-  <img style="image-rendering:pixelated" width="88" height="31" alt=" " src="./assets/88x31/nothing.gif" />
+  <img width="88" height="31" alt=" " src="./assets/88x31/nothing.gif" />
 </a>
 <a href="https://mit.hloth.dev/">
-  <img style="image-rendering:pixelated" width="88" height="31" alt="MIT licensed" src="./assets/88x31/mit-license.gif" />
+  <img width="88" height="31" alt="MIT licensed" src="./assets/88x31/mit-license.gif" />
 </a>
