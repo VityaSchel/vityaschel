@@ -43,14 +43,14 @@
 
 <img src="./assets/mit-license.png" height="70" align="left" /> ⚖ All my projects are licensed under MIT (except forks and derivative works based on GPL-licensed projects).<br />Learn more: <a href="https://mit.hloth.dev/" target="_blank" rel="noopener noreferrer">mit.hloth.dev</a>.<br />Submit a complaint <img src="./assets/gpl-monster.webp" width="20" />: <a href="https://change.mit.hloth.dev/" target="_blank" rel="noopener noreferrer">change.mit.hloth.dev</a>.
 
-## Open source projects
+## Free, libre and open source projects
 
 - [Lufin](https://git.hloth.dev/hloth/lufin) — a modern alternative to lufi, an end-to-end-encrypted file sharing platform ![GitHub Repo stars](https://img.shields.io/github/stars/VityaSchel/lufin?style=flat&label=%E2%AD%90%EF%B8%8F)
+- [Session.js](https://git.hloth.dev/session.js) — JavaScript library for programmatic use of Session Messenger with 12 modular NPM packages ![GitHub Repo stars](https://img.shields.io/github/stars/sessionjs/client?style=flat&label=%E2%AD%90%EF%B8%8F) ![NPM downloads](https://img.shields.io/npm/d18m/%40session.js%2Fclient)
 - [been-foss](https://git.hloth.dev/hloth/been-foss) — Free open source alternative to ad and trackers cluttered "been" ![GitHub Repo stars](https://img.shields.io/github/stars/VityaSchel/been-foss?style=flat&label=%E2%AD%90%EF%B8%8F)
 - [Samsung Pinger](https://git.hloth.dev/hloth/samsung-pinger) — macOS widget to ping Samsung phones via reverse engineered API ![GitHub Repo stars](https://img.shields.io/github/stars/VityaSchel/samsung-pinger?style=flat&label=%E2%AD%90%EF%B8%8F)
 - [ps4-app-merge-pkgs](https://git.hloth.dev/hloth/ps4-app-merge-pkgs) — PlayStation 4 homebrew app to merge .pkgs written fully in C++ ![GitHub Repo stars](https://img.shields.io/github/stars/VityaSchel/ps4-app-merge-pkgs?style=flat&label=%E2%AD%90%EF%B8%8F)
 - [SIPacker](https://git.hloth.dev/hloth/sipacker) — SiGame packs web editor built with React and Material UI ![GitHub Repo stars](https://img.shields.io/github/stars/VityaSchel/sipacker?style=flat&label=%E2%AD%90%EF%B8%8F)
-- [Session.js](https://git.hloth.dev/session.js) — JavaScript library for programmatic use of Session messenger ![GitHub Repo stars](https://img.shields.io/github/stars/sessionjs/client?style=flat&label=%E2%AD%90%EF%B8%8F)
 - [session-id-generator](https://git.hloth.dev/hloth/session-id-generator) — generate Session messenger vanity IDs (website and CLI) ![GitHub Repo stars](https://img.shields.io/github/stars/VityaSchel/session-id-generator?style=flat&label=%E2%AD%90%EF%B8%8F)
 - [byom](https://git.hloth.dev/VityaSchel/byom) — Build Your Own e2ee post-quantum Messenger developer toolkit ![GitHub Repo stars](https://img.shields.io/github/stars/VityaSchel/byom?style=flat&label=%E2%AD%90%EF%B8%8F)
 - [pow-reaction](https://git.hloth.dev/hloth/pow-reaction) — proof-of-work reactions for blogs and websites ![GitHub Repo stars](https://img.shields.io/github/stars/VityaSchel/pow-reaction?style=flat&label=%E2%AD%90%EF%B8%8F)
