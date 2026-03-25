@@ -3,10 +3,10 @@
 <p align="center">
   <samp>
     <a href="https://hloth.dev/me">About me</a> • 
-    <a href="https://hloth.dev/donate">Donate</a> • 
+    <a href="https://hloth.dev/donate">Donate<sup>♥︎</sup></a> • 
     <a href="https://cv.hloth.dev/">Resume / CV</a> • 
     <a href="https://blog.hloth.dev">Blog</a> • 
-    <a href="https://www.upwork.com/freelancers/~01a1f59e7a4697be89">Upwork profile</a> • 
+    <a href="https://m.hloth.dev">Microblog</a> • 
     <a href="#reach-out">Contacts</a>
   </samp>
 </p>
@@ -17,12 +17,13 @@
 
 - 🏳️‍🌈	I’m [openly gay](https://instagram.com/hlothdev) and fight for LGBTQIA+ rights and representation
 - ☮️	I stand for peace and against violence
-- ✨	I’m looking for a full-time remote job in Europe or on-site/hybrid job in Spain — [hire me!](https://cv.hloth.dev)
+- 🕊️	I advocate for privacy and free, libre and open source software
 
-<img src="./assets/forgejo.svg" alt="Forgejo logo" align="left" style="margin-right: 10px; margin-top: 10px;" /> I'm now developing my projects on my own self-hosted Git server [git.hloth.dev](https://git.hloth.dev) powered by Forgejo (fork of Gitea). <br />[Read more](https://github.com/VityaSchel/vityaschel/discussions/4) • [Visit my profile on git.hloth.dev](https://git.hloth.dev/hloth)
-
+<table>
+<tr>
+<td>
 <details>
-  <summary><b>⚠️ All my commits are signed, reveal to learn how to check if the commit was signed by me</b></summary>
+  <summary><b>&nbsp;✍️ Commits signing</b></summary>
   <br />
   
   I'm signing all my commits with [my PGP key](https://hloth.dev/pgp) (you can verify it on Ubuntu and OpenPGP keyservers or using WKD by querying my email address: `hi@hloth.dev`) and have vigilant mode enabled on GitHub. Trust only commits with "Verified" badge from me.
@@ -40,47 +41,60 @@
   - From 2022 to 2023: `DEE0F7C423D3C578`
 
 </details>
+</td>
+</tr>
+</table>
 
-<img src="./assets/mit-license.png" height="70" align="left" /> ⚖ All my projects are licensed under MIT (except forks and derivative works based on GPL-licensed projects).<br />Learn more: <a href="https://mit.hloth.dev/" target="_blank" rel="noopener noreferrer">mit.hloth.dev</a>.<br />Submit a complaint <img src="./assets/gpl-monster.webp" width="20" />: <a href="https://change.mit.hloth.dev/" target="_blank" rel="noopener noreferrer">change.mit.hloth.dev</a>.
+<table>
+<tr>
+<td><img  width="88" height="31" src="./assets/88x31/forgejo.gif" alt="Forgejo logo" /></td>
+<td>I'm now hosting my projects on my own self-hosted Forgejo Git server<br /><a href="https://github.com/VityaSchel/vityaschel/discussions/4">Learn more</a> · <a href="https://git.hloth.dev/hloth">Visit git.hloth.dev</a>
+</td>
+</tr>
+</table>
 
-## Free, libre and open source projects
+<table>
+<tr>
+<td><img width="88" height="31" alt="MIT licensed" src="./assets/88x31/mit-license.gif" /></td>
+<td>⚖ All my personal projects are licensed under MIT<br /><a href="https://mit.hloth.dev/">Learn more</a> · <a href="https://change.mit.hloth.dev/">Submit a complaint <img src="./assets/gpl-monster.webp" width="12" /></a></td>
+</tr>
+</table>
 
-- [Lufin](https://git.hloth.dev/hloth/lufin) — a modern alternative to lufi, an end-to-end-encrypted file sharing platform ![GitHub Repo stars](https://img.shields.io/github/stars/VityaSchel/lufin?style=flat&label=%E2%AD%90%EF%B8%8F)
-- [Session.js](https://git.hloth.dev/session.js) — JavaScript library for programmatic use of Session Messenger with 12 modular NPM packages ![GitHub Repo stars](https://img.shields.io/github/stars/sessionjs/client?style=flat&label=%E2%AD%90%EF%B8%8F) ![NPM downloads](https://img.shields.io/npm/d18m/%40session.js%2Fclient)
-- [been-foss](https://git.hloth.dev/hloth/been-foss) — Free open source alternative to ad and trackers cluttered "been" ![GitHub Repo stars](https://img.shields.io/github/stars/VityaSchel/been-foss?style=flat&label=%E2%AD%90%EF%B8%8F)
-- [Samsung Pinger](https://git.hloth.dev/hloth/samsung-pinger) — macOS widget to ping Samsung phones via reverse engineered API ![GitHub Repo stars](https://img.shields.io/github/stars/VityaSchel/samsung-pinger?style=flat&label=%E2%AD%90%EF%B8%8F)
-- [ps4-app-merge-pkgs](https://git.hloth.dev/hloth/ps4-app-merge-pkgs) — PlayStation 4 homebrew app to merge .pkgs written fully in C++ ![GitHub Repo stars](https://img.shields.io/github/stars/VityaSchel/ps4-app-merge-pkgs?style=flat&label=%E2%AD%90%EF%B8%8F)
-- [SIPacker](https://git.hloth.dev/hloth/sipacker) — SiGame packs web editor built with React and Material UI ![GitHub Repo stars](https://img.shields.io/github/stars/VityaSchel/sipacker?style=flat&label=%E2%AD%90%EF%B8%8F)
-- [session-id-generator](https://git.hloth.dev/hloth/session-id-generator) — generate Session messenger vanity IDs (website and CLI) ![GitHub Repo stars](https://img.shields.io/github/stars/VityaSchel/session-id-generator?style=flat&label=%E2%AD%90%EF%B8%8F)
-- [byom](https://git.hloth.dev/VityaSchel/byom) — Build Your Own e2ee post-quantum Messenger developer toolkit ![GitHub Repo stars](https://img.shields.io/github/stars/VityaSchel/byom?style=flat&label=%E2%AD%90%EF%B8%8F)
-- [pow-reaction](https://git.hloth.dev/hloth/pow-reaction) — proof-of-work reactions for blogs and websites ![GitHub Repo stars](https://img.shields.io/github/stars/VityaSchel/pow-reaction?style=flat&label=%E2%AD%90%EF%B8%8F)
-- [hornet.com](https://git.hloth.dev/hloth/hornet.com) — browser API wrapper for queer social network hornet.com ![GitHub Repo stars](https://img.shields.io/github/stars/VityaSchel/hornet.com?style=flat&label=%E2%AD%90%EF%B8%8F)
-- [batumi.bike](https://git.hloth.dev/hloth/batumi.bike) — safe bike roads in my city using OSM ![GitHub Repo stars](https://img.shields.io/github/stars/VityaSchel/batumi.bike?style=flat&label=%E2%AD%90%EF%B8%8F)
+<table>
+<tr>
+<td><img width="88" height="31" alt="MIT licensed" src="./assets/88x31/internet-privacy.gif" /></td>
+<td>None of my projects implement, enforce or endorse age verification bullshit<br />None of my projects attempt to implement or support DRM</td>
+</tr>
+</table>
+
+## My free, libre and open source projects
+
+- [Lufin](https://git.hloth.dev/hloth/lufin) — a modern alternative to lufi, an end-to-end-encrypted file sharing platform [![GitHub repo stars](https://img.shields.io/github/stars/VityaSchel/lufin?style=flat&logo=github&label=%E2%AD%90%EF%B8%8F&labelColor=%23181717&color=%23F2F5F3)](https://github.com/VityaSchel/lufin) [![git.hloth.dev repo stars](https://img.shields.io/gitea/stars/hloth/lufin?gitea_url=https%3A%2F%2Fgit.hloth.dev&style=flat&logo=forgejo&label=%E2%AD%90%EF%B8%8F&labelColor=%23171e26&color=%23F2F5F3&logoColor=%23ff6600)](https://git.hloth.dev/hloth/lufin)
+- [Session.js](https://git.hloth.dev/session.js) — JS/TS library implementing Session Messenger protocol [![GitHub repo stars](https://img.shields.io/github/stars/sessionjs/client?style=flat&logo=github&label=%E2%AD%90%EF%B8%8F&labelColor=%23181717&color=%23F2F5F3)](https://github.com/sessionjs/client) [![git.hloth.dev repo stars](https://img.shields.io/gitea/stars/session.js/client?gitea_url=https%3A%2F%2Fgit.hloth.dev&style=flat&logo=forgejo&label=%E2%AD%90%EF%B8%8F&labelColor=%23171e26&color=%23F2F5F3&logoColor=%23ff6600)](https://git.hloth.dev/session.js/client) [![NPM downloads](https://img.shields.io/npm/d18m/%40session.js%2Fclient?style=flat&logo=npm&label=%20&color=171e26)](https://www.npmjs.com/package/@session.js/client)
+- [been-foss](https://git.hloth.dev/hloth/been-foss) — free, libre open source alternative to adware trackers-cluttered "been" [![GitHub repo stars](https://img.shields.io/github/stars/VityaSchel/been-foss?style=flat&logo=github&label=%E2%AD%90%EF%B8%8F&labelColor=%23181717&color=%23F2F5F3)](https://github.com/VityaSchel/been-foss) [![git.hloth.dev repo stars](https://img.shields.io/gitea/stars/hloth/been-foss?gitea_url=https%3A%2F%2Fgit.hloth.dev&style=flat&logo=forgejo&label=%E2%AD%90%EF%B8%8F&labelColor=%23171e26&color=%23F2F5F3&logoColor=%23ff6600)](https://git.hloth.dev/hloth/been-foss)
+- [Open Grind](https://git.hloth.dev/hloth/open-grind) — crossplatform, free, libre, ad-free, tracker-free, privacy-centered Grindr client [![GitHub repo stars](https://img.shields.io/github/stars/VityaSchel/open-grind?style=flat&logo=github&label=%E2%AD%90%EF%B8%8F&labelColor=%23181717&color=%23F2F5F3)](https://github.com/VityaSchel/open-grind) [![git.hloth.dev repo stars](https://img.shields.io/gitea/stars/hloth/open-grind?gitea_url=https%3A%2F%2Fgit.hloth.dev&style=flat&logo=forgejo&label=%E2%AD%90%EF%B8%8F&labelColor=%23171e26&color=%23F2F5F3&logoColor=%23ff6600)](https://git.hloth.dev/hloth/open-grind)
+- [Samsung Pinger](https://git.hloth.dev/hloth/samsung-pinger) — macOS widget to ping Samsung phones via reverse engineered API [![GitHub repo stars](https://img.shields.io/github/stars/VityaSchel/samsung-pinger?style=flat&logo=github&label=%E2%AD%90%EF%B8%8F&labelColor=%23181717&color=%23F2F5F3)](https://github.com/VityaSchel/samsung-pinger) [![git.hloth.dev repo stars](https://img.shields.io/gitea/stars/hloth/samsung-pinger?gitea_url=https%3A%2F%2Fgit.hloth.dev&style=flat&logo=forgejo&label=%E2%AD%90%EF%B8%8F&labelColor=%23171e26&color=%23F2F5F3&logoColor=%23ff6600)](https://git.hloth.dev/hloth/samsung-pinger)
+- [ps4-app-merge-pkgs](https://git.hloth.dev/hloth/ps4-app-merge-pkgs) — PlayStation 4 homebrew app to merge .pkgs written fully in C++ [![GitHub repo stars](https://img.shields.io/github/stars/VityaSchel/ps4-app-merge-pkgs?style=flat&logo=github&label=%E2%AD%90%EF%B8%8F&labelColor=%23181717&color=%23F2F5F3)](https://github.com/VityaSchel/ps4-app-merge-pkgs) [![git.hloth.dev repo stars](https://img.shields.io/gitea/stars/hloth/ps4-app-merge-pkgs?gitea_url=https%3A%2F%2Fgit.hloth.dev&style=flat&logo=forgejo&label=%E2%AD%90%EF%B8%8F&labelColor=%23171e26&color=%23F2F5F3&logoColor=%23ff6600)](https://git.hloth.dev/hloth/ps4-app-merge-pkgs)
+- [SIPacker](https://git.hloth.dev/hloth/sipacker) — SiGame packs web editor built with React and Material UI [![GitHub repo stars](https://img.shields.io/github/stars/VityaSchel/sipacker?style=flat&logo=github&label=%E2%AD%90%EF%B8%8F&labelColor=%23181717&color=%23F2F5F3)](https://github.com/VityaSchel/sipacker) [![git.hloth.dev repo stars](https://img.shields.io/gitea/stars/hloth/sipacker?gitea_url=https%3A%2F%2Fgit.hloth.dev&style=flat&logo=forgejo&label=%E2%AD%90%EF%B8%8F&labelColor=%23171e26&color=%23F2F5F3&logoColor=%23ff6600)](https://git.hloth.dev/hloth/sipacker)
+- [session-id-generator](https://git.hloth.dev/hloth/session-id-generator) — generate Session messenger vanity IDs (website and CLI) [![GitHub repo stars](https://img.shields.io/github/stars/VityaSchel/session-id-generator?style=flat&logo=github&label=%E2%AD%90%EF%B8%8F&labelColor=%23181717&color=%23F2F5F3)](https://github.com/VityaSchel/session-id-generator) [![git.hloth.dev repo stars](https://img.shields.io/gitea/stars/hloth/session-id-generator?gitea_url=https%3A%2F%2Fgit.hloth.dev&style=flat&logo=forgejo&label=%E2%AD%90%EF%B8%8F&labelColor=%23171e26&color=%23F2F5F3&logoColor=%23ff6600)](https://git.hloth.dev/hloth/session-id-generator)
+- [byom](https://git.hloth.dev/hloth/byom) — Build Your Own e2ee post-quantum Messenger developer toolkit [![GitHub repo stars](https://img.shields.io/github/stars/VityaSchel/byom?style=flat&logo=github&label=%E2%AD%90%EF%B8%8F&labelColor=%23181717&color=%23F2F5F3)](https://github.com/VityaSchel/byom) [![git.hloth.dev repo stars](https://img.shields.io/gitea/stars/hloth/byom?gitea_url=https%3A%2F%2Fgit.hloth.dev&style=flat&logo=forgejo&label=%E2%AD%90%EF%B8%8F&labelColor=%23171e26&color=%23F2F5F3&logoColor=%23ff6600)](https://git.hloth.dev/hloth/byom)
+- [pow-reaction](https://git.hloth.dev/hloth/pow-reaction) — proof-of-work reactions for blogs and websites [![GitHub repo stars](https://img.shields.io/github/stars/VityaSchel/pow-reaction?style=flat&logo=github&label=%E2%AD%90%EF%B8%8F&labelColor=%23181717&color=%23F2F5F3)](https://github.com/VityaSchel/pow-reaction) [![git.hloth.dev repo stars](https://img.shields.io/gitea/stars/hloth/pow-reaction?gitea_url=https%3A%2F%2Fgit.hloth.dev&style=flat&logo=forgejo&label=%E2%AD%90%EF%B8%8F&labelColor=%23171e26&color=%23F2F5F3&logoColor=%23ff6600)](https://git.hloth.dev/hloth/pow-reaction)
+- [zgz-avanza](https://git.hloth.dev/hloth/zgz-avanza) — reverse engineered Zaragoza public transport spec and implementations [![GitHub repo stars](https://img.shields.io/github/stars/VityaSchel/zgz-avanza?style=flat&logo=github&label=%E2%AD%90%EF%B8%8F&labelColor=%23181717&color=%23F2F5F3)](https://github.com/VityaSchel/zgz-avanza) [![git.hloth.dev repo stars](https://img.shields.io/gitea/stars/hloth/zgz-avanza?gitea_url=https%3A%2F%2Fgit.hloth.dev&style=flat&logo=forgejo&label=%E2%AD%90%EF%B8%8F&labelColor=%23171e26&color=%23F2F5F3&logoColor=%23ff6600)](https://git.hloth.dev/hloth/zgz-avanza)
 
 ### Freelance projects
 
 - [Mentral Health Quiz](https://git.hloth.dev/hloth/mental-health-quiz)
 - [Prankbot website](https://git.hloth.dev/hloth/prankbot)
 - [Keto-plan diet Quiz](https://git.hloth.dev/hloth/ketoplan-diet)
+- More freelance projects without public repos: [Websites & projects at hloth.dev](https://hloth.dev)
 
-More freelance projects without public repos: [Websites & projects at hloth.dev](https://hloth.dev)
+### My other notable projects
 
-### Personal projects
-
-- [Parser of my college's website and a better UI for it](https://git.hloth.dev/hloth/kspguti-schedule)
-- [VFS visa center checking bot](https://git.hloth.dev/hloth/vfs-status-bot)
-- [BLS Global Visa Center status checker](https://git.hloth.dev/hloth/armenia.blsspainglobal.com)
-- [Passport Issuing Gov. status checker](https://github.com/VityaSchel/q-midpass-ru-autoconfirm)
-- [My local city's transport system reverse engineered API](https://git.hloth.dev/hloth/s-otk-js)
-- [My school's digital assessment diary parser](https://git.hloth.dev/hloth/asurso)
-- [WearOS reminder app for taking meds](https://git.hloth.dev/hloth/meds-reminder)
-
-### Other notable projects
-
-- [Telegram.org account settings websites API](https://git.hloth.dev/hloth/my.telegram.org-api-wrapper)
-- [Research: Reddit's subreddit adoption statistics](https://git.hloth.dev/hloth/reddit-request-statistics)
-- [Is Alexey Navalny arrested right now?](https://git.hloth.dev/hloth/navalnyarrested)
-- [My Bad Apple collection contribution](https://git.hloth.dev/hloth/bad-apple)
+- [At Dead Of Night Russian dub](https://adon.hloth.dev/)
+- [NativeNote — self-hosted note-taking service (rust binary & native clients)](https://git.hloth.dev/hloth/native-note)
+- [Bunsogs — Session's SOGS implementation entirely rewritten in TypeScript/Bun](https://git.hloth.dev/hloth/bunsogs)
+- [My college's schedule website](https://git.hloth.dev/hloth/kspguti-schedule)
+- Reverse-engineered & wrapped: [my.telegram.org](https://git.hloth.dev/hloth/my.telegram.org-api-wrapper) · [sigame.ru](https://git.hloth.dev/hloth/sigame-packs-api) · [pornolab.net](https://git.hloth.dev/hloth/pornolab.net) · [hornet.com](https://git.hloth.dev/hloth/hornet.com) · [s-otk.ru](https://git.hloth.dev/hloth/s-otk-js) · [asurso.ru](https://git.hloth.dev/hloth/asurso) · [Mafia Online](https://git.hloth.dev/hloth/mafiaonline.js), [legacy](https://git.hloth.dev/hloth/mafia-tools) · [reddit images](https://git.hloth.dev/hloth/reddit-api-image-upload) · [donationalerts.com](https://git.hloth.dev/hloth/alerts-api) · [destream.net](https://git.hloth.dev/hloth/destream-api) · [gdz.ru](https://git.hloth.dev/hloth/gdzbot) · [samlit.net](https://git.hloth.dev/hloth/samlit.js) · [vfsvisaservicesrussia.com](https://git.hloth.dev/hloth/vfs-status-bot) · [armenia.blsspainglobal.com](https://git.hloth.dev/hloth/armenia.blsspainglobal.com) · [q.midpass.ru](https://git.hloth.dev/hloth/q-midpass-ru-autoconfirm)
 
 [NPM packages](https://npmjs.com/~vityaschel) · [JSR packages](https://jsr.io/@hloth) · [GitHub gists](https://gist.github.com/VityaSchel/) · [More open source projects](https://git.hloth.dev/hloth?tab=repositories)
 
@@ -89,16 +103,14 @@ More freelance projects without public repos: [Websites & projects at hloth.dev]
 💬 [@hloth:hloth.dev in Matrix](https://matrix.to/#/@hloth:hloth.dev) \
 📧 [hi@hloth.dev via email](mailto:hi@hloth.dev) \
 ✉️ [@hlothdev in Telegram](https://t.me/hlothdev) \
-📞 [+34 600936082](tel:+34600936082) \
 📷 [@hlothdev in Instagram](https://instagram.com/hlothdev) \
 📄 [in/hloth in Linkedin](https://www.linkedin.com/in/hloth)
-
 
 <a href="https://matrix.to/#/@hloth:hloth.dev">
   <img width="88" height="31" alt="Message me in Matrix" src="./assets/88x31/matrix.gif" />
 </a>
-<a href="https://bsky.app/profile/hloth.dev">
-  <img width="88" height="31" alt="Bluesky" src="./assets/88x31/bluesky.gif" />
+<a href="https://m.hloth.dev">
+  <img width="88" height="31" alt="Bluesky" src="./assets/88x31/mastodon.gif" />
 </a>
 <a href="https://t.me/hlothdev">
   <img width="88" height="31" alt="Chat with me in Telegram" src="./assets/88x31/telegram.gif" />
@@ -216,7 +228,4 @@ More freelance projects without public repos: [Websites & projects at hloth.dev]
 </a>
 <a href="https://about.blank.hloth.dev">
   <img width="88" height="31" alt="␀" src="./assets/88x31/nothing.gif" />
-</a>
-<a href="https://mit.hloth.dev/">
-  <img width="88" height="31" alt="MIT licensed" src="./assets/88x31/mit-license.gif" />
 </a>
