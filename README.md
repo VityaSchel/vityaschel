@@ -48,7 +48,7 @@
 <table>
 <tr>
 <td><img  width="88" height="31" src="./assets/88x31/forgejo.gif" alt="Forgejo logo" /></td>
-<td>I'm now hosting my projects on my own self-hosted Forgejo Git server<br /><a href="https://github.com/VityaSchel/vityaschel/discussions/4">Learn more</a> · <a href="https://git.hloth.dev/hloth">Visit git.hloth.dev</a>
+<td>I'm now hosting my projects on my own self-hosted Forgejo Git server<br /><a href="https://github.com/VityaSchel/vityaschel/discussions/4">Learn more</a> · <a href="https://git.hloth.dev/hloth">Visit git.hloth.dev</a>
 </td>
 </tr>
 </table>
@@ -56,7 +56,7 @@
 <table>
 <tr>
 <td><img width="88" height="31" alt="MIT licensed" src="./assets/88x31/mit-license.gif" /></td>
-<td>⚖ All my personal projects are licensed under MIT<br /><a href="https://mit.hloth.dev/">Learn more</a> · <a href="https://change.mit.hloth.dev/">Submit a complaint <img src="./assets/gpl-monster.webp" width="12" /></a></td>
+<td>⚖ All my personal projects are licensed under MIT<br /><a href="https://mit.hloth.dev/">Learn more</a> · <a href="https://change.mit.hloth.dev/">Submit a complaint <img src="./assets/gpl-monster.webp" width="12" /></a></td>
 </tr>
 </table>
 
@@ -86,11 +86,11 @@
 
 - [At Dead Of Night Russian dub](https://adon.hloth.dev/) — Unofficial Russian voiceover for the At Dead Of Night game
 - [Bunsogs](https://git.hloth.dev/hloth/bunsogs) — Session messenger's SOGS implementation written in TypeScript/Bun
-- Reverse engineered: [my.telegram.org](https://git.hloth.dev/hloth/my.telegram.org-api-wrapper) · [sigame.ru](https://git.hloth.dev/hloth/sigame-packs-api) · [pornolab.net](https://git.hloth.dev/hloth/pornolab.net) · [hornet.com](https://git.hloth.dev/hloth/hornet.com) · [s-otk.ru](https://git.hloth.dev/hloth/s-otk-js) · [asurso.ru](https://git.hloth.dev/hloth/asurso) · [Mafia Online](https://git.hloth.dev/hloth/mafiaonline.js), [legacy](https://git.hloth.dev/hloth/mafia-tools) · [reddit images](https://git.hloth.dev/hloth/reddit-api-image-upload) · [donationalerts.com](https://git.hloth.dev/hloth/alerts-api) · [vfsvisaservicesrussia.com](https://git.hloth.dev/hloth/vfs-status-bot) · [armenia.blsspainglobal.com](https://git.hloth.dev/hloth/armenia.blsspainglobal.com) · [q.midpass.ru](https://git.hloth.dev/hloth/q-midpass-ru-autoconfirm)
+- Reverse engineered: [my.telegram.org](https://git.hloth.dev/hloth/my.telegram.org-api-wrapper) · [sigame.ru](https://git.hloth.dev/hloth/sigame-packs-api) · [pornolab.net](https://git.hloth.dev/hloth/pornolab.net) · [hornet.com](https://git.hloth.dev/hloth/hornet.com) · [s-otk.ru](https://git.hloth.dev/hloth/s-otk-js) · [asurso.ru](https://git.hloth.dev/hloth/asurso) · [Mafia Online](https://git.hloth.dev/hloth/mafiaonline.js), [legacy](https://git.hloth.dev/hloth/mafia-tools) · [reddit images](https://git.hloth.dev/hloth/reddit-api-image-upload) · [donationalerts.com](https://git.hloth.dev/hloth/alerts-api) · [vfsvisaservicesrussia.com](https://git.hloth.dev/hloth/vfs-status-bot) · [armenia.blsspainglobal.com](https://git.hloth.dev/hloth/armenia.blsspainglobal.com) · [q.midpass.ru](https://git.hloth.dev/hloth/q-midpass-ru-autoconfirm)
 
 Freelance projects: [Mentral Health Quiz](https://git.hloth.dev/hloth/mental-health-quiz), [Prankbot website](https://git.hloth.dev/hloth/prankbot), [Keto-plan diet Quiz](https://git.hloth.dev/hloth/ketoplan-diet) & [more at hloth.dev](https://hloth.dev)
 
-[NPM packages](https://npmjs.com/~vityaschel) · [JSR packages](https://jsr.io/@hloth) · [GitHub gists](https://gist.github.com/VityaSchel/) · [More open source projects](https://git.hloth.dev/hloth?tab=repositories)
+[NPM packages](https://npmjs.com/~vityaschel) · [JSR packages](https://jsr.io/@hloth) · [GitHub gists](https://gist.github.com/VityaSchel/) · [More open source projects](https://git.hloth.dev/hloth?tab=repositories)
 
 ## Reach out
 
