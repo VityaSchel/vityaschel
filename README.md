@@ -1,4 +1,4 @@
-![ёкарный бабай](./assets/banner.svg)
+<a id="start-of-content">![ёкарный бабай](./assets/banner.svg)</a>
 
 <p align="center">
   <samp>
@@ -55,14 +55,14 @@
 
 <table>
 <tr>
-<td><img width="88" height="31" alt="MIT licensed" src="./assets/88x31/mit-license.gif" /></td>
+<td><img width="88" height="31" src="./assets/88x31/mit-license.gif" alt="MIT licensed" /></td>
 <td>⚖ All my personal projects are licensed under MIT<br /><a href="https://mit.hloth.dev/">Learn more</a> · <a href="https://change.mit.hloth.dev/">Submit a complaint <img src="./assets/gpl-monster.webp" width="12" /></a></td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td><img width="88" height="31" alt="MIT licensed" src="./assets/88x31/internet-privacy.gif" /></td>
+<td><img width="88" height="31" src="./assets/88x31/internet-privacy.gif" alt="Internet privacy" /></td>
 <td>None of my projects implement, enforce or endorse age verification bullshit<br />None of my projects attempt to implement or support DRM</td>
 </tr>
 </table>
@@ -107,6 +107,12 @@ Freelance projects: [Mentral Health Quiz](https://git.hloth.dev/hloth/mental-hea
 📷 [@hlothdev in Instagram](https://instagram.com/hlothdev) \
 📄 [in/hloth in Linkedin](https://www.linkedin.com/in/hloth)
 
+<p align="center">
+  <a href="https://git.hloth.dev/hloth#user-content-buttons" id="buttons">
+    <img width="88" height="31" alt="hloth" src="./assets/88x31/hloth.gif" />
+  </a>
+</p>
+
 <a href="https://matrix.to/#/@hloth:hloth.dev">
   <img width="88" height="31" alt="Message me in Matrix" src="./assets/88x31/matrix.gif" />
 </a>
@@ -119,8 +125,8 @@ Freelance projects: [Mentral Health Quiz](https://git.hloth.dev/hloth/mental-hea
 <a href="https://hit.hloth.dev">
   <img width="88" height="31" alt="Hit me in Grindr!" src="./assets/88x31/grindr.gif" />
 </a>
-<a href="https://bun.com/">
-  <img width="88" height="31" alt="JavaScript" src="./assets/88x31/javascript.gif" />
+<a href="https://opengrind.org">
+  <img width="88" height="31" alt="li0ard" src="./assets/88x31/opengrind.gif" />
 </a>
 <a href="https://duckduckgo.com/">
   <img width="88" height="31" alt="Duckduckgo" src="./assets/88x31/duckduckgo.gif" />
@@ -128,44 +134,53 @@ Freelance projects: [Mentral Health Quiz](https://git.hloth.dev/hloth/mental-hea
 <a href="https://ublockorigin.com/">
   <img width="88" height="31" alt="uBlock Origin" src="./assets/88x31/ublock-origin.gif" />
 </a>
-<a href="https://astro.build/">
-  <img width="88" height="31" alt="Astro" src="./assets/88x31/astro-build.gif" />
-</a>
-<a href="https://flipperzero.one/">
-  <img width="88" height="31" alt="Flipper Zero" src="./assets/88x31/flipper-zero.gif" />
-</a>
 <a href="https://www.blender.org/">
   <img width="88" height="31" alt="Blender" src="./assets/88x31/blender.gif" />
 </a>
 <a href="https://godotengine.org/">
   <img width="88" height="31" alt="Godot Game Engine" src="./assets/88x31/godot.gif" />
 </a>
-<a href="https://archlinux.org/">
-  <img width="88" height="31" alt="Arch Linux" src="./assets/88x31/archlinux.gif" />
+<a href="https://rust-lang.org">
+  <img width="88" height="31" alt="Rust" src="./assets/88x31/rust.gif" />
 </a>
-<a href="https://code.visualstudio.com/">
-  <img width="88" height="31" alt="Visual Studio Code" src="./assets/88x31/visual-studio-code.gif" />
+<a href="https://bun.com/">
+  <img width="88" height="31" alt="JavaScript" src="./assets/88x31/javascript.gif" />
+</a>
+<a href="https://astro.build/">
+  <img width="88" height="31" alt="Astro" src="./assets/88x31/astro.gif" />
+</a>
+<a href="https://vscodium.com/">
+  <img width="88" height="31" alt="VSCodium" src="./assets/88x31/vscodium.gif" />
+</a>
+<a href="https://librewolf.dev/">
+  <img width="88" height="31" alt="Firefox" src="./assets/88x31/librewolf.gif" />
 </a>
 <a href="https://www.torproject.org/">
   <img width="88" height="31" alt="Tor" src="./assets/88x31/tor.gif" />
 </a>
-<a href="https://caddyserver.com/">
-  <img width="88" height="31" alt="Caddy" src="./assets/88x31/caddy.gif" />
-</a>
 <a href="https://github.com/dani-garcia/vaultwarden">
   <img width="88" height="31" alt="Bitwarden" src="./assets/88x31/bitwarden.gif" />
 </a>
-<a href="https://www.firefox.com/">
-  <img width="88" height="31" alt="Firefox" src="./assets/88x31/firefox.gif" />
-</a>
 <a href="https://ffmpeg.org/">
   <img width="88" height="31" alt="FFmpeg" src="./assets/88x31/ffmpeg.gif" />
+</a>
+<a href="https://flipperzero.one/">
+  <img width="88" height="31" alt="Flipper Zero" src="./assets/88x31/flipper-zero.gif" />
 </a>
 <a href="https://web.archive.org/web/20230723130959/https://samara.lgbt/">
   <img width="88" height="31" alt="This website is gay" src="./assets/88x31/this-website-is-gay.gif" />
 </a>
 <a href="https://github.com/acidanthera/OpenCorePkg">
   <img width="88" height="31" alt="Made with Macintosh" src="./assets/88x31/macintosh.gif" />
+</a>
+<a href="https://archlinux.org/">
+  <img width="88" height="31" alt="Arch Linux" src="./assets/88x31/archlinux.gif" />
+</a>
+<a href="https://caddyserver.com/">
+  <img width="88" height="31" alt="Caddy" src="./assets/88x31/caddy.gif" />
+</a>
+<a href="https://cadence.moe/blog/2024-10-05-created-by-a-human-badges">
+  <img width="88" height="31" alt="Created by a human with a heart" src="./assets/88x31/created-by-a-human-with-a-heart.gif" />
 </a>
 <a href="https://www.hetzner.com/">
   <img width="88" height="31" alt="Hosted on Hetzner" src="./assets/88x31/hetzner.gif" />
@@ -187,9 +202,6 @@ Freelance projects: [Mentral Health Quiz](https://git.hloth.dev/hloth/mental-hea
 </a>
 <a href="https://yesterweb.org/no-to-web3/">
   <img width="88" height="31" alt="No to WEB3" src="./assets/88x31/no-to-web3.gif" />
-</a>
-<a href="https://cadence.moe/blog/2024-10-05-created-by-a-human-badges">
-  <img width="88" height="31" alt="Created by a human with a heart" src="./assets/88x31/created-by-a-human-with-a-heart.gif" />
 </a>
 <a href="https://fediverse.party/en/fediverse/">
   <img width="88" height="31" alt="Fediverse" src="./assets/88x31/fediverse.gif" />
@@ -215,11 +227,17 @@ Freelance projects: [Mentral Health Quiz](https://git.hloth.dev/hloth/mental-hea
 <a href="https://scottgames.com">
   <img width="88" height="31" alt="ScottGames.com" src="./assets/88x31/scottgames.gif" />
 </a>
+<a href="https://li0ard.rest">
+  <img width="88" height="31" alt="li0ard" src="./assets/88x31/li0ard.gif" />
+</a>
 <a href="https://terraria.wiki.gg/">
   <img width="88" height="31" alt="Terraria" src="./assets/88x31/terraria.gif" />
 </a>
 <a href="https://breezewiki.com/jerma-lore/wiki/Evil_Jerma">
   <img width="88" height="31" alt="Jerma985" src="./assets/88x31/jerma985.gif" />
+</a>
+<a href="https://buckshot-roulette-macos.hloth.dev/">
+  <img width="88" height="31" alt="Mike Klubnika" src="./assets/88x31/mike-klubnika.gif" />
 </a>
 <a href="https://eightyeightthirty.one/">
   <img width="88" height="31" alt="eightyeightthirty.one" src="./assets/88x31/88x31.gif" />
@@ -230,3 +248,7 @@ Freelance projects: [Mentral Health Quiz](https://git.hloth.dev/hloth/mental-hea
 <a href="https://about.blank.hloth.dev">
   <img width="88" height="31" alt="␀" src="./assets/88x31/nothing.gif" />
 </a>
+
+<br>
+
+<p align="center"><a href="#start-of-content">back to <abbr title="Viktor Shchelochkov">top</abbr></a></p>
