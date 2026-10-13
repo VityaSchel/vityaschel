@@ -114,19 +114,19 @@ Freelance projects: [Mentral Health Quiz](https://git.hloth.dev/hloth/mental-hea
 </p>
 
 <a href="https://matrix.to/#/@hloth:hloth.dev">
-  <img width="88" height="31" alt="Message me in Matrix" src="./assets/88x31/matrix.gif" />
+  <img width="88" height="31" alt="Matrix" src="./assets/88x31/matrix.gif" />
 </a>
 <a href="https://m.hloth.dev">
-  <img width="88" height="31" alt="Bluesky" src="./assets/88x31/mastodon.gif" />
+  <img width="88" height="31" alt="Mastodon" src="./assets/88x31/mastodon.gif" />
 </a>
 <a href="https://t.me/hlothdev">
-  <img width="88" height="31" alt="Chat with me in Telegram" src="./assets/88x31/telegram.gif" />
+  <img width="88" height="31" alt="Telegram" src="./assets/88x31/telegram.gif" />
 </a>
 <a href="https://hit.hloth.dev">
-  <img width="88" height="31" alt="Hit me in Grindr!" src="./assets/88x31/grindr.gif" />
+  <img width="88" height="31" alt="Hit me up in Grindr!" src="./assets/88x31/grindr.gif" />
 </a>
 <a href="https://opengrind.org">
-  <img width="88" height="31" alt="li0ard" src="./assets/88x31/opengrind.gif" />
+  <img width="88" height="31" alt="Open Grind" src="./assets/88x31/opengrind.gif" />
 </a>
 <a href="https://duckduckgo.com/">
   <img width="88" height="31" alt="Duckduckgo" src="./assets/88x31/duckduckgo.gif" />
@@ -153,7 +153,7 @@ Freelance projects: [Mentral Health Quiz](https://git.hloth.dev/hloth/mental-hea
   <img width="88" height="31" alt="VSCodium" src="./assets/88x31/vscodium.gif" />
 </a>
 <a href="https://librewolf.dev/">
-  <img width="88" height="31" alt="Firefox" src="./assets/88x31/librewolf.gif" />
+  <img width="88" height="31" alt="Librewolf" src="./assets/88x31/librewolf.gif" />
 </a>
 <a href="https://www.torproject.org/">
   <img width="88" height="31" alt="Tor" src="./assets/88x31/tor.gif" />
