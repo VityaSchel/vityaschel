@@ -107,11 +107,23 @@ Freelance projects: [Mentral Health Quiz](https://git.hloth.dev/hloth/mental-hea
 📷 [@hlothdev in Instagram](https://instagram.com/hlothdev) \
 📄 [in/hloth in Linkedin](https://www.linkedin.com/in/hloth)
 
-<p align="center">
-  <a href="https://git.hloth.dev/hloth#user-content-buttons" id="buttons">
-    <img width="88" height="31" alt="hloth" src="./assets/88x31/hloth.gif" />
-  </a>
-</p>
+<table align="center">
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://webring.li0ard.rest/hloth/prev">← prev</a>
+      </td>
+      <td>
+        <a href="https://git.hloth.dev/hloth#user-content-buttons" id="buttons">
+          <img width="88" height="31" alt="hloth" src="./assets/88x31/hloth.gif" />
+        </a>
+      </td>
+      <td>
+        <a href="https://webring.li0ard.rest/hloth/next">next →</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <a href="https://matrix.to/#/@hloth:hloth.dev">
   <img width="88" height="31" alt="Matrix" src="./assets/88x31/matrix.gif" />
