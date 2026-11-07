@@ -15,7 +15,7 @@
 
 ### Viktor Shchelochkov (@hloth)
 
-- 🏳️‍🌈	I’m [openly gay](https://instagram.com/hlothdev) and fight for LGBTQIA+ rights and representation
+- 🏳️‍🌈	I’m openly gay ([date me!](https://date.hloth.dev/)) and fight for LGBTQIA+ rights and representation
 - ☮️	I stand for peace and against violence
 - 🕊️	I advocate for privacy and free, libre and open source software
 
